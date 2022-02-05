@@ -1,0 +1,65 @@
+Nagas are hostile and cunning creatures who often attack in packs. Corrupted Essence enhances their powers and they attacked many people during The Fracture. 
+They are a race of snake people, they are formidable enemies if you are un-prepared however their attack patterns are fairly simple. 
+They can be found deep in a cave inhabited by the exiled and there is a boss in the very back of the cave. 
+The boss is a very large purple Naga that has both melee and AOE attacks.
+==Mob Variations==
+{| class="mw-collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Naga</h2>
+|-
+||This is a Naga with a sword and shield. They attack using their curved purple sword.<br /> 
+Attacks
+*Melee attack (High/low swing)
+{{Npcbox
+|doc=
+| name = Naga
+| image = Naga.png
+| titles = N/A
+| level = 4-8
+| type = Common
+| race = Naga
+| creature =  Humanoid
+| affiliation = N/A
+| gender = N/A
+| occupation = monster/enemy
+| foccupation = citizens of zenith
+| location = Telecite Mine [[Galian Plains]]
+| status = Alive
+| relatives = Ixxil The Devourer
+| mentors = N/A
+| students = N/A
+| companions = N/A
+}}
+
+|}
+
+{| class="mw-collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Ixxil The Devourer</h2>
+|-
+||The boss of the Galian Plains dungeon. This is a all purple Naga that has 3 different attacks.<br /> 
+Attacks
+*Melee attack (High/low swing)
+*Melee AOE attack
+*Fire AOE attack
+{{Npcbox
+|doc=
+| name = Ixxil The Devourer
+| image = Screenshot (175).png
+| titles = N/A
+| level = 4-8
+| type = Common
+| race = Naga
+| creature =  Humanoid
+| affiliation = N/A
+| gender = N/A
+| occupation = monster/enemy
+| foccupation = citizens of zenith
+| location = Telecite Mine [[Galian Plains]]
+| status = Alive
+| relatives = Naga
+| students = N/A
+| companions = N/A
+}}
+
+|}

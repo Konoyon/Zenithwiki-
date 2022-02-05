@@ -1,4 +1,18 @@
+'''Sylphids''' are low level creatures that live outside of the [[The City of Zenith|City of Zenith]] in the [[Fractured Plains]]. They are aggressive, and due to being infused with too much [[essence]], have lost the ability to communicate with humans. 
+"These unfortunate creatures were once humans who were eventually depleted of their natural Essence. They are mutated husks of their former selves who operate on pure instinct, indiscriminately attacking humans who wander into their territory."
+
+==Mob Variations==
+
+{| class="mw-collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Sylphid</h2>
+|-
+||This is a Sylphid with a sword and shield. They are melee only attackers that use a sword to attack, and a shield to block.<br /> 
+Attacks
+*Melee attack (High/low swing)
+
 {{Npcbox
+
 |doc=
 | name = Sylphid
 | image = image (3).png
@@ -6,7 +20,7 @@
 | level = 1-5
 | type = Common
 | race = Sylphid
-| creature =  Humanoid
+| creature =  Humanoid
 | affiliation = N/A
 | gender = N/A
 | occupation = monster/enemy
@@ -18,8 +32,17 @@
 | students = N/A
 | companions = N/A
 }}
-<br />
+
+|}
+{| class="mw-collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Sylphid Trickster</h2>
+|-
+||A ranged Sylphid variation that can shoot flaming pineapples. The Pineapple is a place-holder for a future projectile.<br />
+Attack
+*Projetile
 {{Npcbox
+
 |doc=
 | name = Sylphid Trickster
 | image = Trickster.png
@@ -27,7 +50,7 @@
 | level = 1-5
 | type = Common
 | race = Sylphid
-| creature =  Humanoid
+| creature =  Humanoid
 | affiliation = N/A
 | gender = N/A
 | occupation = monster/enemy
@@ -39,9 +62,20 @@
 | students = N/A
 | companions = N/A
 }}
-<br />
-<br />
+
+|}
+{| class="mw-collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Berserk Sylphid
+</h2>
+|-
+||This type of Sylphid has a reddish/purple tint instead of the standard blue. Wields a much larger sword, and a much larger shield, which seems to be made of some sort of metal, instead of the smaller rock variant.<br />
+Attack
+*Melee attack (High/low swing)
+*Melee AOE attack
+
 {{Npcbox
+
 |doc=
 | name = Berserk Sylphid
 | image = Screenshot (172).png
@@ -49,7 +83,7 @@
 | level = 1-5
 | type = Common
 | race = Sylphid
-| creature =  Humanoid
+| creature =  Humanoid
 | affiliation = N/A
 | gender = N/A
 | occupation = monster/enemy
@@ -61,3 +95,4 @@
 | students = N/A
 | companions = N/A
 }}
+|}

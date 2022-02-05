@@ -1,0 +1,102 @@
+
+"During The Fracture, a force called Corrupted Essence spread throughout the land and infected creatures and humans alike. 
+People in Zenith who were touched by this Corrupted Essence were subsequently exiled from the city. 
+Many of the Exiled migrated to new lands or formed their own communities. 
+There is an aggressive minority of Exiled who still harbor resentment towards Zenith and they seek vengeance against the city."
+==Mob Variations==
+{| class="mw-collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Exiled Enforcer</h2>
+|-
+||The base Exiled variation. This Exiled carries a sword and appears around the Northeastern part of the Galian Plains.<br /> 
+Attacks
+*Melee attack (High/low swing)
+*Melee jump down AOE attack
+{{Npcbox
+|doc=
+| name = Exiled Enforcer
+| image = Image (4).png
+| titles = corrupted citizens 
+| level = 4-8
+| type = Common
+| race = Exiled
+| creature =  Humanoid
+| affiliation = N/A
+| gender = N/A
+| occupation = monster/enemy
+| foccupation = citizens of zenith
+| location = [[Galian Plains]]
+| status = Alive
+| relatives = Exiled Gunner<br/>Exiled Anarchist/Kang Swiftblade
+| mentors = N/A
+| students = N/A
+| companions = N/A
+}}
+
+|}
+
+{| class="mw-collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Exiled Gunner</h2>
+|-
+||A variation of the Exiled that appears in the Galian Plains dungeon. This Exiled comes in a yellow color and wears a gas mask.<br /> 
+Attacks
+*Projectile
+
+{{Npcbox
+|doc=
+| name = Exiled Gunner
+| image = Screenshot (173).png
+| titles = corrupted citizens 
+| level = 4-8
+| type = Common
+| race = Exiled
+| creature =  Humanoid
+| affiliation = N/A
+| gender = N/A
+| occupation = monster/enemy
+| foccupation = citizens of zenith
+| location = [[Galian Plains]]
+| status = Alive
+| relatives = Exiled Gunner<br/>Exiled Anarchist/Kang Swiftblade
+| mentors = N/A
+| students = N/A
+| companions = N/A
+}}
+
+|}
+
+{| class="mw-collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Exiled Anarchist/Kang Swiftblade</h2>
+|-
+||This is a bigger variation of the Exiled that also goes under the name Kang Swiftblade. Anarchists and Kang Swiftblade both have the same appearance and attacks.<br /> 
+Attack
+*Melee attack (High/low swing)
+*Melee AOE attack
+
+
+{{Npcbox
+|doc=
+| name = Exiled Gunner
+| image = Screenshot (173).png
+| titles = corrupted citizens 
+| level = 4-8
+| type = Common
+| race = Exiled
+| creature =  Humanoid
+| affiliation = N/A
+| gender = N/A
+| occupation = monster/enemy
+| foccupation = citizens of zenith
+| location = [[Galian Plains]]
+| status = Alive
+| relatives = Exiled Gunner<br/>Exiled Anarchist/Kang Swiftblade
+| mentors = N/A
+| students = N/A
+| companions = N/A
+}}
+
+|}
+
+[[Category:Mob]]
