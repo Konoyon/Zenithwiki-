@@ -1,0 +1,21 @@
+{{Npcbox
+|doc=
+| name = Mika
+| image = Mika1.png
+| titles = Zenithian Government Official
+| level = N/A 
+| type = Elite
+| race = Human
+| creature = 
+| affiliation = [[Zenith City]]
+| gender = Female
+| occupation = Government Official/Quest Giver
+| foccupation = N/A
+| location = [[Zenith City]]
+| status = Alive
+| relatives = N/A
+| mentors = N/A
+| students = N/A
+| companions = N/A
+}}
+<br />
