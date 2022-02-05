@@ -1,0 +1,63 @@
+{{Npcbox
+|doc=
+| name = Sylphid
+| image = image (3).png
+| titles = low level creatures
+| level = 1-5
+| type = Common
+| race = Sylphid
+| creature =  Humanoid
+| affiliation = N/A
+| gender = N/A
+| occupation = monster/enemy
+| foccupation = creatures that can communiate with humans
+| location = [[Galian Plains]]
+| status = Alive
+| relatives = Sylphid Trickster<br/>Berserk Sylphid
+| mentors = N/A
+| students = N/A
+| companions = N/A
+}}
+<br />
+{{Npcbox
+|doc=
+| name = Sylphid Trickster
+| image = Trickster.png
+| titles = low level creatures
+| level = 1-5
+| type = Common
+| race = Sylphid
+| creature =  Humanoid
+| affiliation = N/A
+| gender = N/A
+| occupation = monster/enemy
+| foccupation = creatures that can communiate with humans
+| location = [[Galian Plains]]
+| status = Alive
+| relatives = Sylphid<br/>Berserk Sylphid
+| mentors = N/A
+| students = N/A
+| companions = N/A
+}}
+<br />
+<br />
+{{Npcbox
+|doc=
+| name = Berserk Sylphid
+| image = Screenshot (172).png
+| titles = low level creatures
+| level = 1-5
+| type = Common
+| race = Sylphid
+| creature =  Humanoid
+| affiliation = N/A
+| gender = N/A
+| occupation = monster/enemy
+| foccupation = creatures that can communiate with humans
+| location = [[Galian Plains]]
+| status = Alive
+| relatives = Sylphid<br/>Sylphid Trickster
+| mentors = N/A
+| students = N/A
+| companions = N/A
+}}
