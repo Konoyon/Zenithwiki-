@@ -1,21 +1,50 @@
 {{Npcbox
 |doc=
-| name = Mika
-| image = Mika1.png
+| name = Mika Yakiri
+| image = Mika_and_zenithean_government_clothing.jpg
 | titles = Zenithian Government Official
-| level = N/A 
-| type = Elite
 | race = Human
-| creature = 
 | affiliation = [[Zenith City]]
 | gender = Female
-| occupation = Government Official/Quest Giver
-| foccupation = N/A
+| occupation = Government Official<br />Quest Giver
 | location = [[Zenith City]]
 | status = Alive
-| relatives = N/A
-| mentors = N/A
-| students = N/A
-| companions = N/A
 }}
-<br />
+<blockquote> "She is an official in the Zenithean Government who has gained a reputation for her industrious dedication to her role, exuberant personality, and intellectual curiosity. During her free time, she enjoys studying history and she is enthralled with artifacts from the Pre-Fracture era." </blockquote>
+'''''~Excerpt from the [[Zenithean Archives]]'''''
+
+'''Mika Yakiri''' is a human [[Zenith City|Zenithean]] woman in her late 20s, tall and slim, with dark dreadlocks that hang down slightly past her shoulders. She has a small [[Essence|essence]] marking on her cheek, and her emerald green eyes complement the cool jewel undertones of her brown skin. She is the main [[Quest Giver]] for the campaign.
+
+==History==
+
+==Locations==
+*[[Galian Plains]]
+==Abilities==
+
+==Objective of==
+
+==Quests==
+:[[Training Day]]
+:[[Upper Crust]]
+==Quotes==
+
+==Notes==
+
+==Relatives==
+
+==Gallery==
+<gallery>
+Mika1.png|Mika's character model in the game
+</gallery>
+
+==See also==
+[[Zenith City]]
+==References==
+{{Reflist}}
+
+==External links==
+
+[[Category:NPCs]]
+[[Category:Lore]]
+[[Category:Characters]]
+[[Category:Stubs]]

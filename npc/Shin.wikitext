@@ -1,0 +1,33 @@
+{{Npcbox
+|doc=
+| name = Shin
+| image = Shin.jpg
+| titles =N/A
+| race = Human
+| affiliation = N/A
+| gender = Male
+| occupation = Bounty hunter<br />Quest Giver
+| location = [[Galian plains]]
+| status = Alive
+}}
+'''Shin''' is a human male in his early 30s, standing at the watch tower near the gate,
+ who is tall and slim, with white hair blue eyes and what looks to be ground down horns.
+ 
+==Quests==
+{|class="mw-collapsible mw-callopsed" width="100%"
+|-
+! align="left" |<h2>Corruption Caster</h2>}
+|-
+|==Description==
+The sylphids have evolved in deadly ways and are able
+To launch pure corrupt essensce.
+Mika may belive in studying them,but i believe conflict teaches us 
+more than science can.
+
+==Objectives==
+15 Ranged sylphids (Sylphid trickster) defeated
+
+==Rewards==
+*1,975 xp
+*{{cost|115}}
+|}
