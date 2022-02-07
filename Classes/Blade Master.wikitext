@@ -5,19 +5,14 @@ You can view current abilities by looking at the [[Godstone]] menu. You can acti
 
 == Lore ==
 Hundreds of years ago, samurai protected and served [[World of Zenith|Zenithean]] nobles. 
-These days there are only a few people who study dual wielding at the 
-highest levels. Blade Masters are a highly trained group of dual 
-wielding experts. [[Rin the Ram | Rin the Ram]] is a very notable Blade Master and the head of the Blade Master Academy.
-
+These days there are only a few people who study dual wielding at the highest levels. Blade Masters are a highly trained group of dual wielding experts. [[Rin the Ram | Rin the Ram]] is a very notable Blade Master and the head of the Blade Master Academy.
 ==Classes==
 {| class="mw-collapsible mw-collapsed" width="100%"
 |-
 ! align="left" |<h2>DPS - Reaver</h2>
 |-
-"'''overwhelm their opponents with physical onslaughts'''" <br/>
-The DPS branch of the Bladedancer class is heavily focused on combination skills that increase your own personal attack power. As the DPS branch of the Bladedancer, you will have access to skills such as Vorpal Strike or Cleave that deal high damage to enemies while also allowing for follow up attacks.<br/>
-[[DPS]] is a class meant for those seeking to deal high damage. As a Blade Master DPS player, your role is to deal the maximum amount of damage possible to enemies
-who stand in your way. <br/>
+||"'''overwhelm their opponents with physical onslaughts'''" <br/>
+The DPS branch of the Bladedancer class is heavily focused on combination skills that increase your own personal attack power. As the DPS branch of the Bladedancer, you will have access to skills such as Vorpal Strike or Cleave that deal high damage to enemies while also allowing for follow up attacks.<br/>[[DPS]] is a class meant for those seeking to deal high damage. As a Blade Master DPS player, your role is to deal the maximum amount of damage possible to enemieswho stand in your way. <br/>
 First Cadence: Auto equips to the downward cadence, deals increased damage and stagger. <br/>
 Second Cadence: Auto equips to the sideways cadence, gives lifesteal. <br/>
 Cleave: Deals 150% damage to all enemies in front of you <br/>
@@ -29,7 +24,7 @@ Lance. reach behind you and grab a lance then throw that lance to create an [[AO
 |-
 ! align="left" |<h2>Tank - Sentinel</h2>
 |-
-"'''shield their party members'''" <br/>
+||"'''shield their party members'''" <br/>
 Tank is a class meant for those who still want to deal damage, however support their team more. Tanks usually carry a shield, which have been seen used by enemies 
 in previewfootage, although nothing has been confirmed for player use yet. Though nothing has been confirmed the alpha game play for the tank blade
  master does not have a shield but uses two swords to block attacks. <br/>
@@ -487,7 +482,7 @@ Base Stats for Levels 1-40 :
 |-
 ! align="left" |<h2>Support</h2>
 |-
-"'''support them with curative abilities and passive effects'''" <br/>
+||"'''support them with curative abilities and passive effects'''" <br/>
 Support is meant for players who like helping rather than being the person at the front dealing the primary damage. 
 Support players may grant temporary buffs to teammates, such as more health, higher damage, or faster mana regeneration. 
 They may also heal their teammates when damage is taken. <br/>
