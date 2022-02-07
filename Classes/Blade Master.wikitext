@@ -26,16 +26,14 @@ Lance. reach behind you and grab a lance then throw that lance to create an [[AO
 |-
 ||"'''shield their party members'''" <br/>
 Tank is a class meant for those who still want to deal damage, however support their team more. Tanks usually carry a shield, which have been seen used by enemies 
-in previewfootage, although nothing has been confirmed for player use yet. Though nothing has been confirmed the alpha game play for the tank blade
- master does not have a shield but uses two swords to block attacks. <br/>
+in previewfootage, although nothing has been confirmed for player use yet. Though nothing has been confirmed the alpha game play for the tank blade master does not have a shield but uses two swords to block attacks. <br/>
 ===Skills===
 The skills of the tank blade master are mostly focused on getting and keeping the attention and aggro of any mobs. 
 The other skills are meant to allow you to place yourself between a teammate and an attack. <br/>
 ====Dash====
 Dash two times in the direction you are moving the first dash is longer than the second.<br />
 ===Bonk=== 
-On the third charged attack, slice downwards to hit for [30 + 220% ATK) damage and increase the targets next stagger duration by 10% (up to 100% increase maximum).
- ''(Unlocked at Level 1)'' <br/>
+On the third charged attack, slice downwards to hit for [30 + 220% ATK) damage and increase the targets next stagger duration by 10% (up to 100% increase maximum).''(Unlocked at Level 1)'' <br/>
 ''' How to cast ''' <br/>
 Deal 2 hits. On the third hit, swing your sword vertically, and the skill will activate. It causes a crimson bar to go from the top of the enemy downwards. <br/>
 [[File:Bonk|Bonk]]
