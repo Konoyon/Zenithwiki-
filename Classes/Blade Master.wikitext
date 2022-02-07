@@ -9,13 +9,13 @@ These days there are only a few people who study dual wielding at the
 highest levels. Blade Masters are a highly trained group of dual 
 wielding experts. [[Rin the Ram | Rin the Ram]] is a very notable Blade Master and the head of the Blade Master Academy.
 
+==Classes==
 {| class="mw-collapsible mw-collapsed" width="100%"
 |-
 ! align="left" |<h2>DPS - Reaver</h2>
 |-
 "'''overwhelm their opponents with physical onslaughts'''" <br/>
-The DPS branch of the Bladedancer class is heavily focused on combination skills that increase your own personal attack power. As the DPS branch of the Bladedancer, 
-you will have access to skills such as Vorpal Strike or Cleave that deal high damage to enemies while also allowing for follow up attacks.<br/>
+The DPS branch of the Bladedancer class is heavily focused on combination skills that increase your own personal attack power. As the DPS branch of the Bladedancer, you will have access to skills such as Vorpal Strike or Cleave that deal high damage to enemies while also allowing for follow up attacks.<br/>
 [[DPS]] is a class meant for those seeking to deal high damage. As a Blade Master DPS player, your role is to deal the maximum amount of damage possible to enemies
 who stand in your way. <br/>
 First Cadence: Auto equips to the downward cadence, deals increased damage and stagger. <br/>
