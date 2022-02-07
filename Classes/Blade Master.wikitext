@@ -21,7 +21,7 @@ The DPS branch of the Bladedancer class is heavily focused on combination skills
 *Lance. reach behind you and grab a lance then throw that lance to create an [[AOE]] which causes 50% damage each second for 4 seconds.
 |}
 
-{| class="mw-calllapsible mw-callopsed" width="100%"
+{| class="mw-collapsible mw-collapsed" width="100%"
 |-
 ! align="left" |<h2>Tank - Sentinel</h2>
 |-
@@ -477,7 +477,7 @@ Base Stats for Levels 1-40 :
 |
 |
 |}-->
-{| class="mw-calllapsible mw-callopsed" width="100%"
+{| class="mw-collapsible mw-collapsed" width="100%"
 |-
 ! align="left" |<h2>Support</h2>
 |-

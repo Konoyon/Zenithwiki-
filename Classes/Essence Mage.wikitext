@@ -1,0 +1,147 @@
+{{Character|name = Essence Mage |image = mageani.gif|imagecaption = Essence Mage}}
+For a guide on how to play Essence Mage, check out [[Essence Mage Guide]].
+
+An Essence Mage draws on [[Essence|Essence]] to create and shape the elements and reality to their will. Essence Mages are characterized by their trademark wing-like Essence Amplifiers which help essence mages focus their power. 
+
+Contrary to what some might assume, Essence Mages, like any class in Zenith, can fit any role within a party, whether playing as a DPS, Tank, or Support.
+
+=Lore=
+<hr>
+<blockquote>From a young age, promising candidates are selected from the general population of Zenith to undergo this strict training. The learning of the way is strictly regulated, as it relies on hidden teachings that can only be discovered outside of the city. Unlike citizens of Zenith, essence mages spend a large part of their teenage years learning how to manipulate essence outside of Zenith, and so they interact with both Zenitheans, as well as the wandering, nomad clans of the borderlands. Because they lead such cloistered lifestyles but share so many experiences normal citizens never see, they are at once more knowledgeable and more sheltered. 
+</blockquote>
+
+'''''~Excerpt from the [[Zenithean Archives]]'''''
+
+Some say there is a training academy that is nestled deep within the Forest, accessible only by mages, and warded by magic to prevent discovery by [[Amarite|Amarites]].
+
+==Classes==
+{|class="mw- collapsible mw-collapsed" width="100%"
+|-
+! align= "left" |<h2> DPS </h2>
+|-
+||"'''overwhelm their opponents'''"
+
+DPS is a class meant for those seeking to deal high damage. As an Essence Mage DPS player, you will have spells available focused on dealing damage, for example, Lightning Strike. 
+===Lightning Strike===
+Cast down a bolt of lightning in a [3m] area, dealing (60 + 220% ATK) damage. Also generates a large amount of stagger.
+'''How to cast:''' 
+To cast a lightning strike you use the grab button while reaching up then you pull down. An aiming circle will appear on the ground and signify where the lightning will land. You can let go of the lightning at any time to have lightning strike wherever the circle is at the time. You move your hand up to make the circle go further away. So far my experience has been that it doesn't have a cooldown.
+
+[[File:Lightning Strike]]
+
+===Blazing Barrier===
+Create a [4m] wall of infernal flame that lasts for [6s]. Any enemy that enters is burned taking [25+200% ATK] damage each [1s] over [4s].
+'''How to cast''' 
+You can cast blazing barrier by reaching your hand across your chest and pull across. This will summon an aiming circle similar to the lightning strike will appear and you can move your hand up to make the circle go further away.
+
+[[File:Blazing Barrier]]
+
+
+===Pillar of Earth===
+An earthern explosion knocks back all targets in a [5m] radius, dealing [80 + 40% ATK damage]. This ability inflicts [1.5X] additional stagger.
+'''How to cast.''' 
+To cast Pillar Of Earth you reach for the ground and pull up. A similar aiming circle to the lightning strike will appear and you can move your hand up to make the circle go further away. The cool down is about 15 seconds.
+
+[[File:Pillar of Earth]]
+
+
+=== Armageddon === 
+Ultimate ability, 4 colored balls which each have different spells.
+
+[[File:Armageddon]]
+
+
+
+
+
+===Fireball===
+Creates a fiery ball that can be thrown at enemies to explode in a [5m] radius, dealing (75 +220% ATK) damage and an additional (cant read) per second for (4s). 
+
+'''How to cast''' 
+To cast fireball you push the trigger on your right hand and it will appear in your hand, throw the fireball at your opponent. There is no aiming circle for this spell.
+<hr>
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Tank</h2>
+|-
+||
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Support</h2>
+|-
+||"'''support them with [[Heal|curative abilities]] and [[Buff|passive effects]]'''"
+
+Support is meant for players who like helping rather than being the person at the front dealing the primary damage. Support players may grant temporary [[Buff|buffs]] to teammates, such as more health, higher damage, faster mana regeneration. however the main focus of most support classes is to [[Heal|heal]] their companions upon damage taken. The base attack for the support essence mage is called aether spark which is bullets of essance that can heal their companions or hurt opponents. 
+=== Aether Spark ===
+Fire a piercing surge of supercharged Essence to damage foes (for 10 + 40% ATK) and heal allies for (10 + 40% ATK). Can be charged for up to over (1.5s), increasing the power of the shot by up to [2.4X]. Each projectile can hit up to 2 targets. 
+
+[[File:Aether Spark-3]]
+
+
+=== Hydrosplat ===
+Create a globe of powerful aquatic energy that you can throw at enemies to explode in a [5m] radius. Damage enemies for (75 + 200% ATK) and heal allies for (75 + 200% ATK). 
+'''How to cast'''
+Hold trigger with your hand outstretched. Ball of water will appear in hand, throw it. When it comes in contact with the ground, the spell will activate. 
+
+[[File:Hydro]]
+
+
+=== Massive Icicle ===
+Drop a massive block of ice on your foes in a (4m) radius after a delay of (2s), dealing (250% damage) and lowering attack by (10%).
+'''How to cast'''
+Grip, push hand downwards. Move reticle until it is where you want the spell to be, then release grip.
+
+[[File:Icicle]]
+
+
+=== Erupting Spring ===
+A spring erupts in a (7m) radius, immediately healing allies for (30 + 150% ATK). The spring continues to pulse heals for (25 + 75% ATK) while staggering enemies for (30 + 120% ATK) every second for the next (6s).
+'''How to cast'''
+Place hand down, grip hand, push up into the air. Aim reticle where you want spell to be, then release grip.
+
+[[File:spring]]
+
+
+=== Timeslow (Ultimate)===
+Sloooowwww dooowwwn tiiimmmeee...
+'''How to cast'''
+Hold both left hand grip and trigger at the same time. Release to cast the spell.
+
+[[File:Comp_2]]
+
+
+=== Windwall ===
+Conjure a barrier of wind that blocks incoming projectiles and slows nearby enemies.
+'' Please note that this ability was not functioning while this footage was captured, and will be fixed by the developers.''
+''' How to cast '''
+Hold grip with left hand, swipe to the right. Aim reticle on ground. Release grip when the reticle is where you want the spell to be.
+
+[[File:Comp 1]]
+
+=== Snowball ===
+The Snowball is an ability that you can use in place of the fireball, you activate it by equipping it in your menu then you hold down the right trigger button. The longer you hold the trigger the bigger the snowball gets and the more powerful the skill.
+
+[[File:Snowball]]
+|}
+
+=Trivia=
+<hr>
+Shortly after release, world first max level for Essence Mage was achieved by Nyx.
+
+
+
+<br>
+
+
+
+
+https://imgur.com/gallery/ssoxnsX
+<gallery>
+
+</gallery>
+[[Category:Gameplay]]
+[[Category:Class]]
