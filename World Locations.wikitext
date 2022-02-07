@@ -1,0 +1,347 @@
+A large part of any mmorpg is exploring and finding new locations and things to fight. already in the alpha of zenith there are 6 zones for people to discover and fight there way through.
+
+==Locations==
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>The Underside</h2>
+|-
+|| {{Location
+ | title         = The Underside
+ | image         = 
+ | imagecaption  = 
+ | inhabitants   = 
+}}
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+==World Enemies==
+Comming Soon
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Zenith City</h2>
+|-
+|| {{Location
+ | title         = The City of Zenith
+ | image         = Screenshot 2021-03-10 075937.png
+ | imagecaption  = Spawn Area
+ | type          = Social Area
+}}
+Zenith is the most powerful city on the continent. It is renowned for technological advancements, economic prosperity, and luxurious cityscape. The Zenithian government closed its city borders for several years after the events of The Fracture to protect its citizens from outside forces. After the borders reopened, tourism and business within the city prospered, and the city became a significant cultural landmark. <br/>
+Zenith is the central city you will be warped to when first drop into the game. It is a vast technological marvel with an incredible amount of technology powering it. Bordering the massive chasm lies the Fractured Plains, lush, fertile plains that serve as a food source for the denizens of Zenith. <br/>
+It is the largest city on the continent and the only major civilization that survived total destruction during the Fracture. Resting on massive floating islands that levitate due to crystallized essence, the city relies on magical energy sources to power the city and it’s defensive barriers. <br/>
+The Hands of Zenith serve to raise and lower the bridges that connect the city with the mainland. Only the highest members of the Zenithian council know the magic incantations to lower and raise the bridges. <br/>
+
+==Flythrough of the City of Zenith==
+[[File:Zenith MMO City Level Design|center]]
+== Structures ==
+<youtube width="400"> 70OPiDPTWNU </youtube>
+==== Starting Area====
+The center of the City of Zenith. An area for people to meet and socialize, and where the game begins. 
+==== Guild Hall ====
+A hall in which a [[Guild|Guild]] can assemble.
+
+====Vendor Stall====
+A stall found in the city of Zenith, can be used to sell/trade items. 
+
+== Lore == 
+When the Fracture happened, and the God-King's forces lay waste to much of the world, the chasm served as a major defensive advantage. Combined with the raising of the Hands of Zenith, Zenithian [[Essence_Mage|mages]] and engineers created a powerful defensive field around the city to protect it from harm. <br/>
+Outside the city gates, the world suffered a very different fate. The death of countless peoples outside the city of Zenith and the nonchalance of the citizens safe within its walls forever created a rift between the two populations. This mutual animosity was further worsened by the God-King’s hellbent goal to capture Zenith at all costs, leading some to believe there was some shadowy connection between his arrival and Zenith. <br/>
+Much of this is ancient history now, and it’s been hundreds of years since the gates were reopened. On the surface, the city of Zenith thrives, and Zenithian's live more richly than ever before, but whispers of unrest and anger grow louder by the day. In the overgrown ruins outside of the city, lies a gorgeous environment reclaimed by nature and its resilient people have only begun to rebuild their civilization. <br/>
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+
+<gallery>
+starting.png|The Center of the City of Zenith
+image (1).png|Concept model of a Guild Hall
+image (2).png|Concept model of a Vendor Stall
+
+</gallery>
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Fractured Plains</h2>
+|-
+|| {{Location
+ | title         = Fractured plains
+ | image         = frac.png
+ | imagecaption  = The lands surrounding the City of Zenith
+ | inhabitants   = [[Sylphid]]<br />[[Exiled]]<br />[[Naga]]<br />
+}}
+
+The '''Fractured Plains''' contain remnants of the past from the Pre-Fracture era. Nature has gradually reclaimed this area over the past 65 years and some of the small villages have been restored. Disparate groups of [[Exiled]] (people who were banished from [[Zenith City|Zenith]] after [[The Fracture]]), reside in remote areas of the plains. The rural towns serve as an agricultural resource for Zenith. <br/>
+== Quests ==
+<!-- Just quest names are required, quest description is appreciated -->
+* [[A Fractured Land]]- Defeat 10 [[Sylphids]]. --> Return to [[Mika]] when finished.
+*Kill 15 Baby Sylphid 1s- Defeat 15 [[Sylphid]] 1s.
+*Kill 15 Exiled 5s- Defeat 15 [[Exiled]] 5s.
+* [[(Group) Sins Of The Father]]- Kill 10 [[Naga]], [[Naga#Ixxil_The_Devourer|Ixxil]] Defeated. --> Return to [[Mika]] when finished.
+* [[Cursed Village]]- Destroy 8 Crystals, find a clue in Bonsai Village. --> Return to [[Mika]] at the lake.
+* [[Lucky Pandowls]]- Find the statue resting on a root, Find the statue above the darkness. --> Return to [[Mika]] when finished.
+* [[The Price of War]]- Check the Eastern Farmlands, Check the Grove, Check the Farmhouse. --> Find [[Mika]] above the lake.
+* Fractured Plains- Sylphid Slayer- Defeat 25 [[Sylphids]]. --> Return to [[Shin]] when finished.
+*[[Homecoming]]- Defeat 12 [[Exiled]], Defeat [[Ezrel]]. --> Return to [[Mika]] when finished.
+*[[The Valley of Death|Valley of Death]]- Meet Mika in the Galian Valley.
+*[[Rogues in the Valley]]- Climb to the top floor of the near by tower and survey the area. --> Scout the nearby watermill, Scout Galia Village. --> Return to Mika when finished.
+*Kill 15 Amarite Hybrids- Kill 15 [[Rivu Shadowdancers]].
+*Fractured Plain- Corruption Caster- Defeat 15 [[Sylphid#Sylphid_Trickster|Ranged Sylphids]].
+*[[Rotting Fields]]: Defeat 20 Exiled, Search the windmill, Search the watermill, Search the Homestead
+
+== Landmarks == 
+<!-- Dungeons, Shops, NPC areas, etc... -->
+*Eastern Farmlands
+*Grove
+*Farmhouse
+*Windmill
+*Watermill
+*Homestead
+*Galia Village
+== World Enemies == 
+<!-- all enemies here. We're going to have this as updated as possible in the future, but I'd like all the names as of now if possible -->
+*[[Sylphids]]
+*[[Sylphid#Sylphid_Trickster|Ranged Sylphids]]
+*[[Ezrel]]
+*[[Naga]]
+*[[Naga#Ixxil_The_Devourer|Ixxil]]
+*[[Rivu Shadowdancers]]
+
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Galian Valley</h2>
+|-
+|| {{Location
+ | title         = Galian Valley plains
+ | image         = frac.png
+ | imagecaption  = The lands south ofthe fractured plains
+ | inhabitants   = [[Exiled]]<br />[[Amarite]]
+}}
+'''Galian valley''' home of the exiled around the area are several small farms and village homes at the border of the village is surrounded by walls with moss and leaves growing on it all of the land is still occuiped by exiled enforcers, gunners, and anarchists. There are a few bone arches with moss and vines growing around and across them near some of the farms and homes are channels for water around here farming seems popular among the locals.
+==Quests==
+Comming Soon
+==Landmarks==
+picture of local area comming soon
+==World Enemies==
+[[Exiled]]
+[[Exiled#Exiled Enforcer]]
+[[Exiled#Exiled Gunner]]
+[[Exiled#Exiled Anarchist/Kang Swiftblade]]
+[[Amarite]]
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Amarite Forest</h2>
+|-
+|| {{Location
+ | title         = Amarite Forest
+ | image         = amarite.png
+ | imagecaption  = The Amarite Forest
+ | inhabitants   = [[Amarite |Amarite]]
+}}
+
+The secluded woods are home to the amarites a group of tribes who revere the goddess Amara, the naturalistic God who gave shape, form, and base instinct to the creatures of Zenith. The Amarites live in harmony with their surroundings, and they erected the Amarite Temple to worship Amara’s divinity.
+==Quests==
+Comming Soon
+==Landmarks==
+picture of local area comming soon
+==World Enemies==
+[[Amarite]]
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Scarlet Vale</h2>
+|-
+|| {{Location
+ | title         = Scarlet Vale
+ | image         = 
+ | imagecaption  = 
+ | inhabitants   = 
+}}
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+==World Enemies==
+Comming Soon
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Obsidian Fortress</h2>
+|-
+|| {{Location
+ | title         = Obsidian Fortress
+ | image         = 
+ | imagecaption  = 
+ | inhabitants   = 
+}}
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+==World Enemies==
+Comming Soon
+
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Skysong Summit</h2>
+|-
+|| {{Location
+ | title         = Skysong Summit
+ | image         = 
+ | imagecaption  = 
+ | inhabitants   = 
+}}
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+==World Enemies==
+Comming Soon
+
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Raident Coast</h2>
+|-
+|| {{Location
+ | title         = Raident Coast
+ | image         = Screenshot 2021-03-10 084213.png
+ | imagecaption  = A town located on the Radiant Coast
+ | inhabitants   = 
+}}
+Located in the northern corner of the continent, this region is known for its tranquil seaside towns, gorgeous coastal shorelines, and lush jungles. The villages survive comfortably by engaging in the lucrative fishing trade and exporting technology overseas. There is imminent danger offshore, vicious bandits raid the coastlines and strange aquatic creatures attack anyone who dares to wander into their territory.
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+==World Enemies==
+Comming Soon
+
+== Flythrough of the Radiant Coast ==
+[[File:A drone fly-through of our radiant coastal zone. - Zenith MMO|center]]
+[[Category:Locations]]
+[[Category:Lore]]
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Turtle Top</h2>
+|-
+|| {{Location
+ | title         = Turtle Top
+ | image         = 
+ | imagecaption  = 
+ | inhabitants   = 
+}}
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+==World Enemies==
+Comming Soon
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Tangled Cove</h2>
+|-
+|| {{Location
+ | title         = Tangled Cove
+ | image         = 
+ | imagecaption  = 
+ | inhabitants   = 
+}}
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+==World Enemies==
+Comming Soon
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>The Ramshackle</h2>
+|-
+|| {{Location
+ | title         = The Ramshackle
+ | image         = 
+ | imagecaption  = 
+ | inhabitants   = 
+}}
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+==World Enemies==
+Comming Soon
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Emerald Desert</h2>
+|-
+|| {{Location
+ | title         = Emerald Desert
+ | image         = 
+ | imagecaption  = 
+ | inhabitants   = 
+}}
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+==World Enemies==
+Comming Soon
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Rulers Reach</h2>
+|-
+|| {{Location
+ | title         = ulers Reach
+ | image         = 
+ | imagecaption  = 
+ | inhabitants   = 
+}}
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+==World Enemies==
+Comming Soon
+|}
+
+{| class="mw= collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Queens path</h2>
+|-
+|| {{Location
+ | title         = Queens path
+ | image         = 
+ | imagecaption  = 
+ | inhabitants   = 
+}}
+==Quests==
+Comming Soon
+==Landmarks==
+Picture of local area comming soon
+==World Enemies==
+Comming Soon
+|}
+
+[[Category:Content]]
+
