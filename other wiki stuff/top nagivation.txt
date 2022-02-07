@@ -17,7 +17,7 @@
 **Movement
 **Crafting
 ***Cooking
-***[https://zenithmmo.fandom.com/wiki/Synthesis_Table|Synthesis
+***Synthesis
 **Quests
 *#|World
 **World locations
@@ -53,7 +53,7 @@ Sporewood, Obsidian Fortress, Turtle Top, Tangled Cove, Skysong Summit, Rulers R
 **Movement
 **Crafting
 ***Cooking 
-***[https://zenithmmo.fandom.com/wiki/Synthesis_Table|Synthesis
+***Synthesis
 **Quests
 *#|World
 **World locations
