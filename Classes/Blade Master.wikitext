@@ -1,63 +1,64 @@
-{{Character|name = Blade Master|image = blade_master_idle_800x.gif|imagecaption = Blade Master}}The '''Blade Master''' class imbues their bodies and weapons with [[Essence|essence]] to augment a lifetime of physical combat training. Using their abilities and skills, they can overwhelm their opponents with physical onslaughts, shield their party members, or even support them with [[Heal|curative abilities]] and [[Buff|passive effects]].
+{{Character|name = Blade Master|image = blade_master_idle_800x.gif|imagecaption = Blade Master}}The '''Blade Master''' class imbues their bodies and weapons with [[essence]] to augment a lifetime of physical combat training. Using their abilities and skills, they can overwhelm their opponents with physical onslaughts, shield their party members, or even support them with [[Heal|curative abilities]] and [[Buff|passive effects]].
+
 The Blade Master uses two weapons to execute skills using physical gestures. Some skills require both swords, while others are executed with just one. Combat feels fluid, strategic, rhythmic, and fast-paced -- almost dancelike. Like all other classes, the Blade Master can play all three classic roles (Support, [[DPS]], and Tank).
 
 You can view current abilities by looking at the [[Godstone]] menu. You can actively change your role at any time between Support, [[DPS]], and Tank, by selecting one of the different icons on the left side of the Godstone menu. The first time you make this switch will set your abilities so that you only know the basic skills of your new role. Advanced skills for that role can be unlocked. The previous roles you played as will still keep the skills you had in that role.
 
-== Lore ==
+==Lore==
 Hundreds of years ago, samurai protected and served [[World of Zenith|Zenithean]] nobles. 
-These days there are only a few people who study dual wielding at the highest levels. Blade Masters are a highly trained group of dual wielding experts. [[Rin the Ram | Rin the Ram]] is a very notable Blade Master and the head of the Blade Master Academy.
+These days there are only a few people who study dual wielding at the highest levels. Blade Masters are a highly trained group of dual wielding experts. [[ Rin the Ram]] is a very notable Blade Master and the head of the Blade Master Academy.
 ==Classes==
 {| class="mw-collapsible mw-collapsed" width="100%"
 |-
 ! align="left" |<h2>DPS - Reaver</h2>
 |-
-||"'''overwhelm their opponents with physical onslaughts'''" <br/>
-The DPS branch of the Bladedancer class is heavily focused on combination skills that increase your own personal attack power. As the DPS branch of the Bladedancer, you will have access to skills such as Vorpal Strike or Cleave that deal high damage to enemies while also allowing for follow up attacks.<br/>[[DPS]] is a class meant for those seeking to deal high damage. As a Blade Master DPS player, your role is to deal the maximum amount of damage possible to enemieswho stand in your way. <br/>
-First Cadence: Auto equips to the downward cadence, deals increased damage and stagger. <br/>
-Second Cadence: Auto equips to the sideways cadence, gives lifesteal. <br/>
-Cleave: Deals 150% damage to all enemies in front of you <br/>
-Curse: Marks the target for 6 seconds then distributes 15% of damage taken by target to be released in an [[AOE]] <br/>
-Lance. reach behind you and grab a lance then throw that lance to create an [[AOE]] which causes 50% damage each second for 4 seconds.
+||"'''overwhelm their opponents with physical onslaughts'''" <br />
+The DPS branch of the Bladedancer class is heavily focused on combination skills that increase your own personal attack power. As the DPS branch of the Bladedancer, you will have access to skills such as Vorpal Strike or Cleave that deal high damage to enemies while also allowing for follow up attacks.<br />[[DPS]] is a class meant for those seeking to deal high damage. As a Blade Master DPS player, your role is to deal the maximum amount of damage possible to enemieswho stand in your way. <br />
+*First Cadence: Auto equips to the downward cadence, deals increased damage and stagger. <br />
+*Second Cadence: Auto equips to the sideways cadence, gives lifesteal. <br />
+*Cleave: Deals 150% damage to all enemies in front of you <br />
+*Curse: Marks the target for 6 seconds then distributes 15% of damage taken by target to be released in an [[AOE]] <br />
+*Lance. reach behind you and grab a lance then throw that lance to create an [[AOE]] which causes 50% damage each second for 4 seconds.
 |}
 
-{| class= "mw-calllapsible mw-callopsed" width="100%"
+{| class="mw-calllapsible mw-callopsed" width="100%"
 |-
 ! align="left" |<h2>Tank - Sentinel</h2>
 |-
-||"'''shield their party members'''" <br/>
+||"'''shield their party members'''" <br />
 Tank is a class meant for those who still want to deal damage, however support their team more. Tanks usually carry a shield, which have been seen used by enemies 
-in previewfootage, although nothing has been confirmed for player use yet. Though nothing has been confirmed the alpha game play for the tank blade master does not have a shield but uses two swords to block attacks. <br/>
+in preview footage, although nothing has been confirmed for player use yet. Though nothing has been confirmed the alpha game play for the tank blade master does not have a shield but uses two swords to block attacks. 
 ===Skills===
 The skills of the tank blade master are mostly focused on getting and keeping the attention and aggro of any mobs. 
-The other skills are meant to allow you to place yourself between a teammate and an attack. <br/>
+The other skills are meant to allow you to place yourself between a teammate and an attack.
 ====Dash====
-Dash two times in the direction you are moving the first dash is longer than the second.<br />
+Dash two times in the direction you are moving the first dash is longer than the second.
 ===Bonk=== 
-On the third charged attack, slice downwards to hit for [30 + 220% ATK) damage and increase the targets next stagger duration by 10% (up to 100% increase maximum).''(Unlocked at Level 1)'' <br/>
-''' How to cast ''' <br/>
-Deal 2 hits. On the third hit, swing your sword vertically, and the skill will activate. It causes a crimson bar to go from the top of the enemy downwards. <br/>
-[[File:Bonk|Bonk]]
+On the third charged attack, slice downwards to hit for [30 + 220% ATK) damage and increase the targets next stagger duration by 10% (up to 100% increase maximum).''(Unlocked at Level 1)''
+''' How to cast ''' 
+Deal 2 hits. On the third hit, swing your sword vertically, and the skill will activate. It causes a crimson bar to go from the top of the enemy downwards. <br />
+[[File:Bonk|Bonk|link=Special:FilePath/Bonk]]
 ===Defender's Crest===
 On the third charged attack, slice horizontally to hit enemies in a [5m] arc in front of you for [110% * AP (Affinity Power) damage. 
-Gain a small amount of shield for each target hit. ''(Unlocked at Level 1)'' <br/>
+Gain a small amount of shield for each target hit. ''(Unlocked at Level 1)'' 
 ''' How to cast '''
 Deal 2 hits. On the third hit, swing your sword horizontally, and the skill will activate. 
-It shoots out a phantom slash, dealing damage to every enemy it comes in contact with. <br/>
-[[File:Defender's Crest|Defender's Crest]]
+It shoots out a phantom slash, dealing damage to every enemy it comes in contact with.
+[[File:Defender's Crest|Defender's Crest|link=Special:FilePath/Defender's_Crest]]
 ===Boneshatter=== 
-Deal [200 + 300% ATK] damage and [2x] Stagger. ''(Unlocked at Level 3)'' <br/>
-This is an ''extremely'' powerful attack, allowing massive amounts of damage to be dealt in a short time. <br/>
+Deal [200 + 300% ATK] damage and [2x] Stagger. ''(Unlocked at Level 3)'' 
+This is an ''extremely'' powerful attack, allowing massive amounts of damage to be dealt in a short time. 
 ''' How to cast '''
 Boneshatter requires 25 '''Rage''' ''(explained above)''. Once you have enough Rage, click the trigger to initiate the skill. 
 Your blade will start glowing. Strike the enemy by swinging your blade vertically. After hitting the , 
-a large crimson slash will appear, dealing immense damage upon hitting the enemy. <br/>
-[[File:Boneshatter|Boneshatter]]
+a large crimson slash will appear, dealing immense damage upon hitting the enemy. 
+[[File:Boneshatter|Boneshatter|link=Special:FilePath/Boneshatter]]
 ===Avenger's Arc===
-A bonechilling attack that cleaves into all enemies within an (8m) arc. Inflicts damage instantly and every (2s) for the next (6s). Slows enemies for 50% for its duration. <br/>
+A bonechilling attack that cleaves into all enemies within an (8m) arc. Inflicts damage instantly and every (2s) for the next (6s). Slows enemies for 50% for its duration. 
 ''' How to cast '''
-Avenger's Arc requires 20 '''Rage''' ''(explained above)''. Once you have enough Rage, click the trigger to initiate the skill. Your blade will start glowing. Strike the enemy by swinging your blade horizontally. After hitting the enemy, a space-like phantom blade will appear, dealing damage to any enemies in its large path. <br/>
+Avenger's Arc requires 20 '''Rage''' ''(explained above)''. Once you have enough Rage, click the trigger to initiate the skill. Your blade will start glowing. Strike the enemy by swinging your blade horizontally. After hitting the enemy, a space-like phantom blade will appear, dealing damage to any enemies in its large path. 
 
-[[File:Avenger's Arc|Avenger's Arc]]
+[[File:Avenger's Arc|Avenger's Arc|link=Special:FilePath/Avenger's_Arc]]
 |}
 
 <!--
@@ -476,19 +477,15 @@ Base Stats for Levels 1-40 :
 |
 |
 |}-->
-{| class= "mw-calllapsible mw-callopsed" width="100%"
+{| class="mw-calllapsible mw-callopsed" width="100%"
 |-
 ! align="left" |<h2>Support</h2>
 |-
 ||"'''support them with curative abilities and passive effects'''" <br/>
 Support is meant for players who like helping rather than being the person at the front dealing the primary damage. 
 Support players may grant temporary buffs to teammates, such as more health, higher damage, or faster mana regeneration. 
-They may also heal their teammates when damage is taken. <br/>
-
-
-Dash: The support Blademaster dash creates a shield in an [[AOE]] around the end of each dash. This shield is very powerful because it seems to equal the targets health. <br/>
-
-
+They may also heal their teammates when damage is taken. 
+* Dash: The support Blademaster dash creates a shield in an [[AOE]] around the end of each dash. This shield is very powerful because it seems to equal the targets health. <
 
 <!--==Abilities==
 
@@ -504,11 +501,10 @@ Dash: The support Blademaster dash creates a shield in an [[AOE]] around the end
 * Slice: By slicing a sword around an enemy's shield/sword, damage will be dealt upon contact with the enemy's body. Blade Masters also have the ability to slice through projectiles, shown here: 
 * Spells/Moves: Basic attacks are done using the right hand, slashing in the direction of the bright red indicators. The brighter the red lines glow when you slash with your light saber, the more damage you do. Timing is everything.
 * Damage Calculation: Damage will be calculated based on a few factors, such as the length of your swing, speed of your swing, and strength of your swing.
--->
-|}
+-->|}
 <hr>
 '''Blade Master video Guide:''' <br>
-[[File:A Guide to Blade Master - Zenith- The Last City]]
+[[File:A Guide to Blade Master - Zenith- The Last City|link=Special:FilePath/A_Guide_to_Blade_Master_-_Zenith-_The_Last_City]]
 <gallery>
 Slicing_through_projectile|Slicing Through an Arrow
 https://imgur.com/gallery/dTp1rmJ|Blademaster - Dreadlord's Plate Armor : "The essence in this armor glows with the infused blood of fallen combatants"
@@ -517,3 +513,4 @@ https://imgur.com/gallery/dTp1rmJ|Blademaster - Dreadlord's Plate Armor : "The e
 [[Category:Class]]
 [[Category:Lore]]
 [[Category:Stubs]]
+
