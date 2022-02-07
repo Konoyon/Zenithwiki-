@@ -72,9 +72,7 @@ Mika1.png|Mika’s character model in the game
 | location = [[Galian plains]]
 | status = Alive
 }}
-'''Shin''' is a human male in his early 30s, standing at the watch tower near the gate,
- who is tall and slim, with white hair blue eyes and what looks to be ground down horns.
- 
+'''Shin''' is a human male in his early 30s, standing at the watch tower near the gate,who is tall and slim, with white hair blue eyes and what looks to be ground down horns.
 ==Quests==
 {|class="mw-collapsible mw-callopsed" width="100%"
 |-
