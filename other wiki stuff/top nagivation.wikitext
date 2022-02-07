@@ -1,4 +1,7 @@
-Do not copy anything in parentheses 
+(////Dont Copy Anything in Parentheses\\\\)
+(////Request from discord user :👌Depression is my cup of tea#0420, fandom user:xfinity69, github:Konoyon\\\\\\\\)
+(Request for navigation and page improvements)
+(////Dont Copy Anything in Parentheses\\\\)
 (Current Wiki Navigation)
 
 *#|Classes
@@ -26,7 +29,7 @@ Do not copy anything in parentheses
 **World Enemies
 *#|More
 **categories
-**Game feed Back
+**Game FeedBack
 
 **Help:Contents|Help
 
@@ -34,13 +37,14 @@ Do not copy anything in parentheses
 
 (New/Expermential Wiki Navigation) 
 (Suggustion for the Blade Master and the Essense Mage [Level 2 Navigation]: Combine the DPS, Tank, Support into the indiviual 
-class page with collapsible categories [Link] [Link])
+class page with collapsible categories [https://github.com/Konoyon/Zenithwiki-/blob/main/Classes/Blade%20Master.wikitext] 
+[https://github.com/Konoyon/Zenithwiki-/blob/main/Classes/Essence%20Mage.wikitext])
 
 (Suggustion for the World locations[Level 2 Navigation]: Combine City of Zenith, Galian Plains, Radiant Coast, Emerald Desert Amarite Desert into the world locations page 
 with collapsible categories. Rename Galian Plains both on the top Navigation and the page/category to Fractured plains, add Galian valley, Amarite Forest, Scarlet Vale,
-Sporewood, Obsidian Fortress, Turtle Top, Tangled Cove, Skysong summit, Rulers Reach, The Ramshackle, Queen's path.)
+Sporewood, Obsidian Fortress, Turtle Top, Tangled Cove, Skysong Summit, Rulers Reach, The Ramshackle, Queen's path.[https://github.com/Konoyon/Zenithwiki-/blob/main/World%20Locations.wikitext])
 
-(Suggustion for World[Level 1 Navigation]: Add world NPC'S.)
+(Suggustion for World[Level 1 Navigation]: Add world NPC'S.[https://github.com/Konoyon/Zenithwiki-/blob/main/npc/NPC'S.wikitext])
 
 *Classes
 **Blade Master       
