@@ -1,4 +1,4 @@
-Anything in parentheses do not copy
+Do not copy anything in parentheses 
 (Current Wiki Navigation)
 
 *#|Classes
@@ -12,27 +12,49 @@ Anything in parentheses do not copy
 ***Mage Support
 *#|Gameplay
 **Movement
-**crafting
+**Crafting
 ***Cooking
+***[https://zenithmmo.fandom.com/wiki/Synthesis_Table|Synthesis
 **Quests
-*World
+*#|World
 **World locations
 ***City of Zenith
 ***Galian Plains
 ***Radiant Coast
 ***Emerald Desert
 ***Amarite Desert
-** World Enemies
-* More
+**World Enemies
+*#|More
 **categories
 **Game feed Back
 
 **Help:Contents|Help
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 (New/Expermential Wiki Navigation) 
-(Suggustion for the Blade Master and the Essense Mage: Combine the DPS, Tank, Support in to the indiviual class bage with callopse able categories [Link] [Link])
+(Suggustion for the Blade Master and the Essense Mage [Level 2 Navigation]: Combine the DPS, Tank, Support into the indiviual 
+class page with collapsible categories [Link] [Link])
+
+(Suggustion for the World locations[Level 2 Navigation]: Combine City of Zenith, Galian Plains, Radiant Coast, Emerald Desert Amarite Desert into the world locations page 
+with collapsible categories. Rename Galian Plains both on the top Navigation and the page/category to Fractured plains, add Galian valley, Amarite Forest, Scarlet Vale,
+Sporewood, Obsidian Fortress, Turtle Top, Tangled Cove, Skysong summit, Rulers Reach, The Ramshackle, Queen's path.)
+
+(Suggustion for World[Level 1 Navigation]: Add world NPC'S.)
 
 *Classes
 **Blade Master       
 **Essense Mage
+*#|Gameplay
+**Movement
+**Crafting
+***Cooking 
+***[https://zenithmmo.fandom.com/wiki/Synthesis_Table|Synthesis
+**Quests
+*#|World
+**World locations
+**World Enemies
+**World NPC'S
+
+
+
