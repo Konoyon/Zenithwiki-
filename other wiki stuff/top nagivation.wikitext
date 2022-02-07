@@ -1,0 +1,38 @@
+Anything in parentheses do not copy
+(Current Wiki Navigation)
+
+*#|Classes
+**Blade Master
+***Blade DPS
+***Blade Tank
+***Blade Support
+**Essense Mage
+***Mage DPS
+***Mage Tank
+***Mage Support
+*#|Gameplay
+**Movement
+**crafting
+***Cooking
+**Quests
+*World
+**World locations
+***City of Zenith
+***Galian Plains
+***Radiant Coast
+***Emerald Desert
+***Amarite Desert
+** World Enemies
+* More
+**categories
+**Game feed Back
+
+**Help:Contents|Help
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+(New/Expermential Wiki Navigation) 
+(Suggustion for the Blade Master and the Essense Mage: Combine the DPS, Tank, Support in to the indiviual class bage with callopse able categories [Link] [Link])
+
+*Classes
+**Blade Master       
+**Essense Mage
