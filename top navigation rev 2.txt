@@ -1,0 +1,49 @@
+(////Dont Copy Anything in Parentheses\\\\)
+(////Request from discord user :👌Depression is my cup of tea#0420, fandom user:xfinity69, github:Konoyon\\\\\\\\)
+(hastebin link:https://www.toptal.com/developers/hastebin/ukasonawoc.md)
+(Request for navigation and page improvements)
+(////Dont Copy Anything in Parentheses\\\\)
+(Expermential Wiki Navigation Revision 2)
+
+(Suggusted changes involving [Level 1 Navigation: Gameplay] and[Level 1 Navigation: World] move [Level 2 Navigation: World Enemies] to [Level 1 Navigation: Gameplay]
+and rename World Enemies to just Enemies. Add [Level 2 Navigation:NPC's]. )(Reason: if World Enemies is renamed and move to Gameplay with the 
+addition of creating a NPC category will allow the world category to be decided for current and future locations in zenith.)
+
+(Suggested changes involving [Level 1 Navigation: World] added new locations.Rename Galian Plains both on the top Navigation and the page/category to Fractured plains.)
+
+(Suggustion for the Blade Master and the Essense Mage [Level 2 Navigation]: Combine the DPS, Tank, Support into the indiviual 
+class page with collapsible categories [https://github.com/Konoyon/Zenithwiki-/blob/main/Classes/Blade%20Master.wikitext] 
+[https://github.com/Konoyon/Zenithwiki-/blob/main/Classes/Essence%20Mage.wikitext])
+
+*#|Classes
+**Blade Master       
+**Essense Mage
+*#|Gameplay
+**Movement
+**Enemies 
+**NPC'S
+**Crafting
+***Cooking 
+***Synthesis
+**Quests
+*#|World
+**World locations
+***The Underside      <!--making wiki page currently-->
+***City of Zenith
+***Fractured Plains
+***Galian Valley      <!--making wiki page currently-->
+***Amarite Forest
+***Scarlet Vale       <!--ETA:None-->
+***Sporewood          <!--ETA:None-->
+***Obsidian Fortress  <!--ETA:None-->
+***Skysong Summit     <!--ETA:None-->
+***Radiant Coast   
+***Turtle Top         <!--ETA:None-->
+***Tangled Cove       <!--ETA:None-->
+***The Ramshackle     <!--ETA:None-->
+***Emerald Desert  
+***Rulers Reach       <!--ETA:None-->
+***Queens path        <!--ETA:None-->
+
+
+
