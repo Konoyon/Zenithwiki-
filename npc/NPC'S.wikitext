@@ -3,7 +3,8 @@ Through out the world of Zenith there are many NPC's you will encounter here are
 |-
 ! align= "left" |<h2>Mika Yakiri</H2>
 |-
-||{{Npcbox
+||
+{{Npcbox
 |doc=
 | name = Mika Yakiri
 | image = Mika_and_zenithean_government_clothing.jpg
@@ -60,7 +61,8 @@ Mika1.png|Mika’s character model in the game
 |-
 ! align= "left" |<h2></H2>
 |-
-|| {{Npcbox
+||
+ {{Npcbox
 |doc=
 | name = Shin
 | image = Shin.jpg
