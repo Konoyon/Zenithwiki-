@@ -1,0 +1,12 @@
+{{Item
+ | title         = Durian
+ | image         = Blood orange.png
+ | imagecaption  = 
+ | type          = Food
+ | effects       = <font color="white">'''0'''</font> Health<br>
+<font color="white">'''0'''</font> Attack<br>
+<font color="white">'''0'''</font> Defense
+ | source        = 
+ | buy           = 
+ | sell          = 
+}}

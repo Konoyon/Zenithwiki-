@@ -1,0 +1,13 @@
+{{Item
+ | title         = Blood orange
+ | image         = Blood orange.png
+ | imagecaption  = 
+ | type          = Food
+ | effects       = <font color="cyan">'''+25'''</font> Health<br>
+<font color="cyan">'''+5'''</font> Attack<br>
+<font color="cyan">'''+5'''</font> Defense
+ | source        = Trees
+ | buy           = 
+ | sell          = 
+}}
+The '''blood orange''' is a food item in [[City of Zenith|Zenith]] Found in trees at the fractured plains and Galian Valley. This is both a food and a ingredient 
