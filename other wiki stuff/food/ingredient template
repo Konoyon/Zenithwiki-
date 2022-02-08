@@ -1,0 +1,49 @@
+<includeonly><infobox type="Food">
+	<title source="title"/>
+	<image source="image"><caption source="imagecaption"/></image>
+	<data source="type"><label>Type of food</label></data>
+	<data source="effects"><label>Player buff and debuff</label></data>
+	<data source="source"><label>Source</label></data>
+	<data source="buy"><label>Cost to buy</label></data>
+	<data source="location"><label>Where to find them naturally</label></data>
+</infobox>{{#ifeq: {{NAMESPACENUMBER}} | 0 | [[Category:Food]]}}</includeonly><noinclude>{{Documentation}}</noinclude>
+
+
+
+== Description ==
+To use this template, add the {{T|{{BASEPAGENAME}}}} template and fill in the appropriate fields. Fields left blank will not appear in articles. This infobox template uses [[w:Help:Infobox|Fandom's infobox syntax]].
+
+== Syntax ==
+<pre>
+{{Item
+ | title         = 
+ | image         = [e.g. "Example.jpg"]
+ | imagecaption  = 
+ | type          = 
+ | effects       = 
+ | source        = 
+ | buy           = 
+ | location      = 
+}}
+</pre>
+
+== Sample output ==
+{{Item
+ | title         = Power Flower
+ | image         = Example.jpg
+ | type          = Food
+ | effects       = +1 Fire
+ | source        = Vendor
+ | buy           = 5g
+ | location      = Trees
+}}<pre>
+{{Item
+ | title         = Power Flower
+ | image         = Example.jpg
+ | type          = Food
+ | effects       = +1 Fire
+ | source        = Vendor
+ | buy           = 5g
+ | location      = Trees
+}}
+</pre><includeonly>[[Category:Infobox templates]]</includeonly><noinclude>[[Category:Template documentation]]</noinclude>
