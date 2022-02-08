@@ -1,0 +1,6 @@
+<infobox>
+  <title source="name"><default>{{PAGENAME}}</default></title>
+  <image source="image" />
+  <data source="Type"><label>Type of Food</label></data>
+  <data source="Player_buff_debuff"><label>Player Buff and Debuff</label></data>
+</infobox>
