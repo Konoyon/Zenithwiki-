@@ -1,3 +1,4 @@
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ First revision ////////////////////////////
 {{infobox
  |name   = Eddard Stark
  |image  = eddard.jpg
@@ -6,13 +7,17 @@
  Price Per Item  = +9999999
  Located  = the endless abyss of brazil
 }}
-
-
-
-
-
-
-
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ second revision ////////////////////////////
+{{infobox
+ |name                    = Example
+ |image                   = example.jpg
+ |Type of Food            = test
+ |Player Buff and Debuff  = +99999999
+ |Price Per Item          = +9999999
+ |Located                 = the endless abyss of brazil
+ |Buff/Debuff             = +09999111
+ |Cost                    = 3893393939
+}}
 
 
 \\\\\\\\\\\\\\\\old\\\\\\\\\\\\\\\\\

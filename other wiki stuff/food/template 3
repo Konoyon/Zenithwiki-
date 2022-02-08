@@ -1,3 +1,13 @@
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ First revision ////////////////////////////
+<infobox>
+    <title source="name"><default>{{PAGENAME}}</default></title>
+    <image source="image" />
+    <data source="Type"><label>Type of Food</label></data>
+    <data source="Player_buff_debuff"><label>Player Buff and Debuff</label></data>
+    <data source="Price_Per_Item"><label>Price Per Item</label></data>
+    <data source="Located"><label>Located</label></data>
+  </infobox>
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ second revision ////////////////////////////
 <infobox>
   <title source="name"><default>{{PAGENAME}}</default></title>
   <image source="image" />
@@ -5,14 +15,19 @@
   <data source="Player_buff_debuff"><label>Player Buff and Debuff</label></data>
   <data source="Price_Per_Item"><label>Price Per Item</label></data>
   <data source="Located"><label>Located</label></data>
+  <group layout="horizontal">
+      <header>Buff/Debuff</header>
+      <data source="Buff/Debuff" />
+  </group>
+  <group layout="horizontal">
+      <header>Duration</header>
+    <data source="Duration" />
+  </group>
+  <group layout="horizontal">
+      <header>Cost</header>
+    <data source="Cost" />
+  </group>
 </infobox>
-
-
-
-
-
-
-
 
 
 \\\\\\\\\\\\\\\\\\\old\\\\\\\\\\\\\\\\\\\\\\\\\\
