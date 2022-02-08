@@ -3,4 +3,22 @@
   <image source="image" />
   <data source="Type"><label>Type of Food</label></data>
   <data source="Player_buff_debuff"><label>Player Buff and Debuff</label></data>
+  <data source="Price_Per_Item"><label>Price Per Item</label></data>
+  <data source="Located"><label>Located</label></data>
 </infobox>
+
+
+
+
+
+
+
+
+
+\\\\\\\\\\\\\\\\\\\old\\\\\\\\\\\\\\\\\\\\\\\\\\
+<infobox layout="stacked">
+    <title source="name"><default>{{PAGENAME}}</default></title>
+    <image source="image" />
+    <data source="season"><label>Season(s)</label></data>
+    <data source="first"><label>First seen</label></data>
+  </infobox>
