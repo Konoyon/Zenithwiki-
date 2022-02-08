@@ -1,6 +1,6 @@
 {{Item
  | title         = Durian
- | image         = Blood orange.png
+ | image         = Durian.png
  | imagecaption  = 
  | type          = Food
  | effects       = <font color="white">'''0'''</font> Health<br>
