@@ -1,0 +1,36 @@
+<onlyinclude><includeonly>{{Infobox
+|bodystyle=width:21.5em
+|above  = {{{name|{{PAGENAME}}}}}
+|image  = {{#if:{{{slides|}}}|{{SlidesToTabber|{{{slides}}}|{{#if:{{{imgsize|}}}|{{{imgsize}}}|200x300px}}}}|{{#ifeq:{{lc:{{{image}}}}}|no||{{#ifexist:File:{{{image|}}}|[[File:{{{image}}}|frameless|200x300px|Image of {{{name|{{PAGENAME}}}}}]]|}}}}}}
+|caption = {{{caption|}}}
+|label1 = Title
+|data1  = {{#if:{{{title|}}}|&lt;{{{title}}}&gt;|{{{titles|}}}}} {{#if:{{{title ref|}}}|<ref>{{{title ref}}}</ref>}}
+|label2 = Gender
+|data2  = {{{gender|{{{sex|}}}}}}
+|label3 = Race{{#if:{{{races|}}}|(s)}}
+|data3  = {{#if:{{{races|}}}|{{{races}}}|{{#ifeq:{{{race|}}}||Unknown|{{#if:{{{displayrace|}}}|[[{{{race}}}|{{ucfirst:{{{displayrace}}}}}]]|[[{{ucfirst:{{{race}}}}}]]}}}}}}{{#if:{{{creature|}}}|&nbsp;({{{creature}}})}}
+|label4 = Level
+|data4  = {{{level|}}} {{{type|}}}
+|label13= Affiliation(s)
+|data13 = {{{affiliation|}}}
+|label14= Former affiliation(s)
+|data14 = {{{faffiliation|}}}
+|label15= Occupation
+|data15 = {{{occupation|}}}
+|label16= Former occupation(s)
+|data16 = {{{foccupation|}}}
+|label17= Location
+|data17 = {{{location|}}}
+|label18= Status
+|data18 = {{{status|}}}
+|label19= Relative(s)
+|data19 = {{{relatives|}}}
+|label20= Mentor(s)
+|data20 = {{{mentors|}}}
+|label21= Student(s)
+|data21 = {{{students|}}}
+|label22= Companion(s)
+|data22 = {{{companions|}}}<!--
+-->}}<!-- end of infobox
+--></includeonly></onlyinclude>
+{{Documentation}}
