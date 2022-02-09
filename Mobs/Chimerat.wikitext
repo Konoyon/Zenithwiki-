@@ -1,0 +1,25 @@
+'''Chimerat''' are low level creatures that were created during the fracture that have infested the lower levels of [[The Underside]] many don't know how they were created. 
+==Attacks==
+*Bite
+*Muli bite   
+{{Npcbox
+
+|doc=
+| name = Chimerat
+| image = chimerat.png
+| titles = low level creatures
+| level = 1-5
+| type = Common
+| race = Chimerat
+| creature = Amalgamation
+| affiliation = 
+| gender = 
+| occupation = monster/enemy
+| foccupation = 
+| location = [[The Underside]]
+| status = 
+| relatives = 
+| mentors = 
+| students = 
+| companions = 
+}}
