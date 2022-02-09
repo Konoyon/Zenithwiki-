@@ -1,33 +1,57 @@
 {{Npcbox
 |doc=
 | name = Shin
-| image = Shin.jpg
+| image = Shin.png
 | titles =N/A
 | race = Human
 | affiliation = N/A
 | gender = Male
 | occupation = Bounty hunter<br />Quest Giver
-| location = [[Galian plains]]
+| location = [[Fractured Plains]]
 | status = Alive
 }}
-'''Shin''' is a human male in his early 30s, standing at the watch tower near the gate,
- who is tall and slim, with white hair blue eyes and what looks to be ground down horns.
- 
+
+'''Shin''' is a human male in his early 30s, tall and slim, with white hair, blue eyes, and what looks to be ground down horns. He is initially met standing at the [[Fractured Plains]] watch tower near the gate. He is one of the main [[Quest Giver|Quest Givers]] for hunting quests.
+
+==History==
+
+==Locations==
+*[[Fractured Plains]]
+*Emerald Desert
+*Obsidian Fortress
+*Queen’s path
+*Radiant Coast
+*Rulers Reach
+*Scarlet Vale
+*Skysong Summit
+*Sporewood
+*Turtle Top
+<br />
+==Abilities==
+
+==Objective of==
+
 ==Quests==
-{|class="mw-collapsible mw-callopsed" width="100%"
-|-
-! align="left" |<h2>Corruption Caster</h2>}
-|-
-|==Description==
-The sylphids have evolved in deadly ways and are able
-To launch pure corrupt essensce.
-Mika may belive in studying them,but i believe conflict teaches us 
-more than science can.
 
-==Objectives==
-15 Ranged sylphids (Sylphid trickster) defeated
+==Quotes==
 
-==Rewards==
-*1,975 xp
-*{{cost|115}}
-|}
+==Notes==
+
+==Relatives==
+
+==Gallery==
+<gallery>
+Shin.png|Shin's character model in the game
+</gallery>
+
+==See also==
+
+==References==
+{{Reflist}}
+
+==External links==
+
+[[Category:NPCs]]
+[[Category:Lore]]
+[[Category:Characters]]
+[[Category:Stubs]] 
