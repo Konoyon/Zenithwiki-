@@ -1,0 +1,26 @@
+{{Location
+ | title         = Galian Valley 
+ | image         = frac.png
+ | imagecaption  = The lands south of the fractured plains.
+ | inhabitants   = [[Exiled]]<br />[[Amarite]]
+}}
+'''Galian valley''' home of the exiled around the area are several small farms and village homes at the border of the village is surrounded by walls with moss and leaves growing on it all of the land is still occuiped by exiled enforcers, gunners, and anarchists. There are a few bone arches with moss and vines growing around and across them near some of the farms and homes are channels for water around here farming seems popular among the locals.
+==Walkthrough of Galian Valley==
+Galian_Valley.mp4
+==Quests==
+Comming Soon
+==Landmarks==
+picture of local area comming soon
+==World Enemies==
+[[Exiled]]
+[[Exiled#Exiled Enforcer]]
+[[Exiled#Exiled Gunner]]
+[[Exiled#Exiled Anarchist/Kang Swiftblade]]
+[[Amarite]]
+
+<gallery>
+Galian_Valley_overview.png|Galian Valley Overview
+image (1).png
+image (2).png
+
+</gallery>

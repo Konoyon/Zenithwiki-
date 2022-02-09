@@ -1,0 +1,25 @@
+{{Location
+ | title         = The Underside
+ | image         = The_Underside.png
+ | imagecaption  = The first area for all new players.
+ | inhabitants   = [[Exiled]]<br />[[Chimerats]]
+}}
+'''The underside''' is what is left of the old world after the Fracture not many have survived to be able surface back into the city. The majority of the underside is infested with chimerats while at while the areas further up are a few area's that have been occupied by the exiled.
+The underside is where all new players that first join the game fight though before being able to reach the surface. 
+
+==Walkthrough of The Underside==
+The_Underside.mp4
+==== Starting Area====
+a spawn point behind a few boxes 
+==Quests==
+Comming Soon
+==World Enemies==
+[[Chimerat]]
+[[Exiled]]
+
+<gallery>
+The_Underside_overview.png|Underside Overview
+image (1).png
+image (2).png
+
+</gallery>
