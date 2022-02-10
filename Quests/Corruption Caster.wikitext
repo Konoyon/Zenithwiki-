@@ -5,18 +5,18 @@
 | levelreq = ???
 |start=[[Shin]]
 |end=[[Shin]]
-|experience = 1975 xp
+|experience = 1975 exp
 |money={{cost|115}}
 |previous=
 |next=
 }}
 ==Location==
-Meet standing at the [[Fractured Plains]] watch tower near the gate.
+Meet [[Shin]] standing at the [[Fractured Plains]] watch tower near the gate.
 ==Description==
-The sylphids have evolved in deadly ways and are able to launch pure corrupt essensce.Mika may belive in studying them,but i believe conflict teaches us more than science can.
+The sylphids have evolved in deadly ways and are able to launch pure corrupt essensce.Mika may belive in studying them, but i believe conflict teaches us more than science can.
 ==Rewards==
 Upon completion of this quest you will gain:
-*1975 XP
+*1975 exp
 *{{cost|115}}
 ==objectives==
 15 Ranged sylphids (Sylphid trickster) defeated
