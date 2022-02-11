@@ -1,0 +1,51 @@
+{{Npcbox
+|doc=
+| name = Brimm
+| image = Brimm.png
+| titles =N/A
+| race = Human
+| affiliation = N/A
+| gender = Male
+| occupation = Chef<br />Quest Giver
+| location = [[City of Zenith]]
+| status = Alive
+}}
+
+'''Brimm''' is a human male in his early 30s, tall and slim, with brown hair with a anchor goatee, silver eyes, and wearing a chef's uniform . He is initially met standing at the food standands on the left side past the tori gate where Mika Yakiri stationed at in [[The City of Zenith]]. He is one of the [[Quest Giver|Quest Givers]] for cooking and gathering ingredients.
+
+==History==
+
+==Locations==
+*[[City of Zenith]]
+
+<br />
+==Abilities==
+
+==Objective of==
+
+==Quests==
+[[Orange you glad I'm here]]
+[[Scout out the farms]]
+[[Livin'la vida Lake-ah]]
+==Quotes==
+
+==Notes==
+
+==Relatives==
+
+==Gallery==
+<gallery>
+Brimm.png|Brimm's character model in the game
+</gallery>
+
+==See also==
+
+==References==
+{{Reflist}}
+
+==External links==
+
+[[Category:NPCs]]
+[[Category:Lore]]
+[[Category:Characters]]
+[[Category:Stubs]] 
