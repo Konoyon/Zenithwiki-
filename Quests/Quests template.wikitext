@@ -1,0 +1,26 @@
+{{Questbox
+|name= 
+|category=Quests
+| level = 
+| levelreq = ???
+|start= 
+|end=
+|experience = 
+|money={{cost|}}
+|previous=
+|next=
+}}
+==Location==
+
+==Description==
+
+==Rewards==
+Upon completion of this quest you will gain:
+*exp
+*{{cost|}}
+==objectives==
+<!--if there are muliple parts lable them accordingly-->
+==Notes==
+
+
+[[Category:Quests]]
