@@ -1,26 +1,29 @@
 {{Questbox
 |name= Galian Glider
-|category=Quests
+|category= Quests
 | level = 
 | levelreq = ???
 |start= [[Mika Yakiri]]
-|end=[[Mika Yakiri]]
-|experience = 7200 exp 
+|end= [[Mika Yakiri]]
+|experience = 7200 EXP
 |money={{cost|160}}
 |previous=
 |next=
 }}
 ==Location==
-
+Meet [Mika Yakiri] at the second tower near an Amarite Outpost in [[galian valley]].
 ==Description==
-Time to fly! Go through all the rings to claim your prize.
+ime to fly! Go through all the rings to claim your prize.
 ==Rewards==
 Upon completion of this quest you will gain:
-*7200 exp
+* 7200 EXP
 *{{cost|160}}
-==objectives==
+==Progress==
 Go through all the rings.
+==Completion==
+Return to Mika Yakiri at second tower near an Amarite Outpost after you completed your mission for the reward.
 ==Notes==
 
-
 [[Category:Quests]]
+
+__NOTOC__

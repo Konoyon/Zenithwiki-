@@ -1,11 +1,11 @@
 {{Questbox
-|name=Corruption Caster
+|name=Fractured Plain - Corruption Caster
 |category=Quests
 | level = 
 | levelreq = ???
 |start=[[Shin]]
 |end=[[Shin]]
-|experience = 1975 exp
+|experience = 1975 EXP
 |money={{cost|115}}
 |previous=
 |next=
@@ -13,14 +13,18 @@
 ==Location==
 Meet [[Shin]] standing at the [[Fractured Plains]] watch tower near the gate.
 ==Description==
-The sylphids have evolved in deadly ways and are able to launch pure corrupt essensce.Mika may belive in studying them, but i believe conflict teaches us more than science can.
+The sylphids have evolved in deadly ways and are able to launch pure corrupt essence. Mika may believe in studying them, but I believe conflict teaches us more than science can.
 ==Rewards==
 Upon completion of this quest you will gain:
-*1975 exp
+*1975 EXP
 *{{cost|115}}
-==objectives==
+==Progress==
 15 Ranged sylphids (Sylphid trickster) defeated
+==Completion==
+Return to [[Shin]] after you completed your mission for the reward.
+
 ==Notes==
 
-
 [[Category:Quests]]
+
+__NOTOC__
