@@ -1,0 +1,53 @@
+{{Npcbox
+|doc=
+| name = Kai
+| image = Brimm.png
+| titles =N/A
+| race = Human
+| affiliation = N/A
+| gender = Male
+| occupation = Pirate<br />Quest Giver
+| location = [[City of Zenith]]
+| status = Alive
+}}
+
+'''kai''' is a human male in his late 20s, tall and slim, with black hair and dressed as a pirate . He is initially met standing at [[Raident Coast]] in a compound.
+
+==History==
+
+==Locations==
+:[[Raident Coast]]
+:[[Turtle Top]]
+:[[Tangled Cove]]
+
+<br />
+==Abilities==
+
+==Objective of==
+
+==Quests==
+:Shrine of the Sea
+:Key Personnel
+:Shrine of the Storm
+==Quotes==
+
+==Notes==
+
+==Relatives==
+
+==Gallery==
+<gallery>
+Kai.png|Brimm's character model in the game
+</gallery>
+
+==See also==
+
+==References==
+
+
+==External links==
+
+[[Category:NPCs]]
+[[Category:Lore]]
+[[Category:Characters]]
+[[Category:Stubs]] 
