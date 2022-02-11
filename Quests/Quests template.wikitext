@@ -1,12 +1,12 @@
 {{Questbox
-|name= 
+|name=
 |category=Quests
 | level = 
 | levelreq = ???
-|start= 
+|start=
 |end=
-|experience = 
-|money={{cost|}}
+|experience =  EXP
+|money={{cost|115}}
 |previous=
 |next=
 }}
@@ -16,11 +16,14 @@
 
 ==Rewards==
 Upon completion of this quest you will gain:
-*exp
+* EXP
 *{{cost|}}
-==objectives==
-<!--if there are muliple parts lable them accordingly-->
+==Progress==
+
+==Completion==
+
 ==Notes==
 
-
 [[Category:Quests]]
+
+__NOTOC__
