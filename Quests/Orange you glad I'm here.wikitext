@@ -1,11 +1,11 @@
 {{Questbox
-|name=Orange you glad I'm here
+|name= Orange you glad I'm here
 |category=Quests
 | level = 
 | levelreq = ???
-|start=[[Brimm]]
-|end=[[Brimm]]
-|experience = 1350 exp
+|start= [[Brimm]]
+|end= [[Brimm]]
+|experience = 1350 EXP
 |money={{cost|65}}
 |previous=
 |next=
@@ -18,17 +18,14 @@ Gather some Fresh oranges from out in the plains, buy milk from the nearby store
 By the way the best way to find oranges is to look up! There is a tree just past the bridge leading to the plains. Orang-u-tang right up that tree and grap that fresh fruit!
 ==Rewards==
 Upon completion of this quest you will gain:
-*1350 exp
+*1350 EXP
 *{{cost|65}}
-==objectives==
-Part 1:
-*1 Milk Gathered
-*5 oranges Gathered
-Part 2 :
-*Make an orange Creamsicle Smoothie
+==Progress==
+:1 Milk Gathered
+:5 oranges Gathered
+==Completion==
+Return to Brimm after you completed your mission for the reward.
 ==Notes==
-Check your inventory for the orage creamsicle recipe book.<br/>
-First quest (Orange you glad I'm here) and the last quest (Make a Smoothie) have different names.
 
 [[Category:Quests]]
-
+__NOTOC__

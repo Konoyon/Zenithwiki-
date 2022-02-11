@@ -5,7 +5,7 @@
 | levelreq = ???
 |start= [[Brimm]]
 |end= [[Brimm]]
-|experience = 1650 exp
+|experience = 1650 EXP
 |money={{cost|95}}
 |previous=
 |next=
@@ -19,13 +19,15 @@ Upon completion of this quest you will gain:
 *1650 exp
 *{{cost|95}}
 *Recipe-basic
-==objectives==
-*Scout out Rocky Farm
-*Scout out Village Farm
-*Scout out Upper Farm
-*Return to Brimm and tell him what you've seen
+==Progress==
+:Scout out Rocky Farm
+:Scout out Village Farm
+:Scout out Upper Farm
+:Return to Brimm and tell him what you've seen
+==Completion==
+return to [[Brimm]] after you completed your mission for the reward.
 ==Notes==
-The farms are at the far right section of the [[fractured plains]].
 
 [[Category:Quests]]
+
 __NOTOC__
