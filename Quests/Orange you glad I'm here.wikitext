@@ -1,0 +1,34 @@
+{{Questbox
+|name=Orange you glad I'm here
+|category=Quests
+| level = 
+| levelreq = ???
+|start=[[Brimm]]
+|end=[[Brimm]]
+|experience = 1350 exp
+|money={{cost|65}}
+|previous=
+|next=
+}}
+==Location==
+Meet [[Brimm]] standing on the left side past the tori gate where Mika Yakiri stationed at in [[The City of Zenith]].
+==Description==
+Hi there, player! It's time for you to learn how to cook.<br/>
+Gather some Fresh oranges from out in the plains, buy milk from the nearby store, and then bring all those yummy ingredients to me to prove you're serious about learning to cook<br/> 
+By the way the best way to find oranges is to look up! There is a tree just past the bridge leading to the plains. Orang-u-tang right up that tree and grap that fresh fruit!
+==Rewards==
+Upon completion of this quest you will gain:
+*1350 exp
+*{{cost|65}}
+==objectives==
+Part 1:
+*1 Milk Gathered
+*5 oranges Gathered
+Part 2 :
+*Make an orange Creamsicle Smoothie
+==Notes==
+Check your inventory for the orage creamsicle recipe book.<br/>
+First quest (Orange you glad I'm here) and the last quest (Make a Smoothie) have different names.
+
+[[Category:Quests]]
+
