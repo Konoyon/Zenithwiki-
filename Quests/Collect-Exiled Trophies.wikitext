@@ -1,0 +1,26 @@
+{{Questbox
+|name= Collect-Exiled trophies
+|category=Quests
+| level = 
+| levelreq = ???
+|start= 
+|end=
+|experience = 2500 exp
+|money={{cost|100}}
+|previous=
+|next=
+}}
+==Location==
+The second tower near an Amarite Outpost in [[galian valley]].
+==Description==
+Exiled have been running amok in the area, help us quell their forces and i an reward you for any masks you gather. 
+==Rewards==
+Upon completion of this quest you will gain:
+*exp
+*{{cost|}}
+==objectives==
+<!--if there are muliple parts lable them accordingly-->
+==Notes==
+
+
+[[Category:Quests]]

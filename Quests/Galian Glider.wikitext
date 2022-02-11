@@ -1,0 +1,26 @@
+{{Questbox
+|name= Galian Glider
+|category=Quests
+| level = 
+| levelreq = ???
+|start= [[Mika Yakiri]]
+|end=[[Mika Yakiri]]
+|experience = 7200 exp 
+|money={{cost|160}}
+|previous=
+|next=
+}}
+==Location==
+
+==Description==
+Time to fly! Go through all the rings to claim your prize.
+==Rewards==
+Upon completion of this quest you will gain:
+*7200 exp
+*{{cost|160}}
+==objectives==
+Go through all the rings.
+==Notes==
+
+
+[[Category:Quests]]

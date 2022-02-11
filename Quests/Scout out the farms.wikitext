@@ -1,0 +1,31 @@
+{{Questbox
+|name= Scout out the farms
+|category=Quests
+| level = 
+| levelreq = ???
+|start= [[Brimm]]
+|end= [[Brimm]]
+|experience = 1650 exp
+|money={{cost|95}}
+|previous=
+|next=
+}}
+==Location==
+Meet [[Brimm]] standing on the left side past the tori gate where Mika Yakiri stationed at in [[The City of Zenith]]. 
+==Description==
+We Have reports of the local farms not beng able to supply food to the city. We need you to go and scout the farms to see what is interrupting our food supply! If you aren't sure which farm to investigate remember to pull up your minimap!
+==Rewards==
+Upon completion of this quest you will gain:
+*1650 exp
+*{{cost|95}}
+*Recipe-basic
+==objectives==
+*Scout out Rocky Farm
+*Scout out Village Farm
+*Scout out Upper Farm
+*Return to Brimm and tell him what you've seen
+==Notes==
+The farms are at the far right section of the [[fractured plains]].
+
+[[Category:Quests]]
+__NOTOC__

@@ -1,0 +1,29 @@
+{{Questbox
+|name= Cast out the Outcasts
+|category=Quests
+| level = 
+| levelreq = ???
+|start= [[Mika Yakiri]]
+|end=[[Mika Yakiri]]
+|experience = 8400 exp
+|money={{cost|190}}
+|previous=
+|next=
+}}
+==Location==
+The second tower  near an Amarite Outpost in [[galian valley]].
+==Description==
+The Exiled Trail leads up to the vilage.
+<br/>
+The only way they could take this position is if the Amarites allowed it. Find out why. And player: show them only the mercy they offered their victims.
+==Rewards==
+Upon completion of this quest you will gain:
+*8400exp
+*{{cost|190}}
+==objectives==
+*First Exiled leader defeated
+*Discover the farmer's fate
+==Notes==
+
+
+[[Category:Quests]]

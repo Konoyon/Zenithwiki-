@@ -1,0 +1,28 @@
+{{Questbox
+|name= Livin'la vida Lake-ah
+|category=Quests
+| level = 
+| levelreq = ???
+|start= [[Brimm]]
+|end= [[Mika Yakiri]]
+|experience = 1500 exp
+|money={{cost|80}}
+|previous=
+|next=
+}}
+==Location==
+Meet [[Brimm]] standing on the left side past the tori gate where Mika Yakiri stationed at in [[The City of Zenith]].
+==Description==
+Well now that you can whip up a [[Brimm]] approved [[Orange Creamsicle Smoothie]], could you please make a couple and bring them to a friend of mine? Her name is Mika, and you can find her by the lake, just over the Dragontooth Mountians there.
+==Rewards==
+Upon completion of this quest you will gain:
+*1500 exp
+*{{cost|80}}
+==objectives==
+*2 Orange Smoothies for Mika By the lake 
+*Take the Smoothies to Mika by the lake
+==Notes==
+
+
+[[Category:Quests]]
+__NOTOC__

@@ -1,0 +1,32 @@
+{{Questbox
+|name= Rotting fields
+|category=Quests
+| level = 
+| levelreq = ???
+|start= [[Mika yakiri]]
+|end=[[Mika yakiri]]
+|experience = 7800 exp
+|money={{cost|175}}
+|previous=
+|next=
+}}
+==Location==
+Meet [[Mika yakiri]] at the watch tower at the end of the entrance to [[galian valley]].
+==Description==
+The Exiled Brought Corruption here? So it's not enough for them to stave us. They're trying to poison us to.<br/> 
+We need to drive them out of the farmlands! Destory any currupt essense crystals you find and check homes for survivors. Meet me at the next tower as soon as you're done.
+==Rewards==
+Upon completion of this quest you will gain:
+*7800 exp
+*{{cost|175}}
+==objectives==
+*5 Currupt Crystals Destroyed
+*8 Exiled Defeated
+*Search the Windmill
+*Search the Homestead 
+*search the Watermill
+==Notes==
+The second tower is near a Amarite Outpost in galian valley.
+
+[[Category:Quests]]
+__NOTOC__
