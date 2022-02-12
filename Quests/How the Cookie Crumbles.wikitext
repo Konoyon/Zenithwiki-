@@ -1,0 +1,31 @@
+{{Questbox
+|name=How the Cookie Crumbles
+|category=Quests
+| level = 
+| levelreq = ???
+|start=[[Brimm]]
+|end=[[Brimm]]
+|experience = 1050 EXP
+|money={{cost|35}}
+|previous=
+|next=
+}}
+==Location==
+Meet[[Brimm]] at the food stalls. 
+==Description==
+Hello player <br/>
+As Part of your introductory training, I am going to have you practice cooking. Cooking is very important to the prowess of and Agent like yourself. By learning ercipes, we can craft ourselves food that will increase our strength, stamina, health as well as help us heal more quickly during and after battles.<br/>
+You already know the recipe to bake a cookie, so why don't we start there? Bake 3 cookies, then talk to me again.
+==Rewards==
+Upon completion of this quest you will gain:
+*1050 EXP
+*{{cost|35}}
+==Progress==
+Bake 3 Cookies, put them into your backpack
+==Completion==
+Return to Brimm after you completed your mission for the reward.
+==Notes==
+
+[[Category:Quests]]
+
+__NOTOC__
