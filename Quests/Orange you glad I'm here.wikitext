@@ -11,7 +11,7 @@
 |next=
 }}
 ==Location==
-Meet [[Brimm]] standing on the left side past the tori gate where Mika Yakiri stationed at in [[The City of Zenith]].
+Meet [[Brimm]] at the food stalls. 
 ==Description==
 Hi there, player! It's time for you to learn how to cook.<br/>
 Gather some Fresh oranges from out in the plains, buy milk from the nearby store, and then bring all those yummy ingredients to me to prove you're serious about learning to cook<br/> 
@@ -26,6 +26,6 @@ Upon completion of this quest you will gain:
 ==Completion==
 Return to Brimm after you completed your mission for the reward.
 ==Notes==
-
+[[Brimm]] standing on the left side past the tori gate where Mika Yakiri stationed at in [[The City of Zenith]].
 [[Category:Quests]]
 __NOTOC__

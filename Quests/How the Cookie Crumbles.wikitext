@@ -11,10 +11,10 @@
 |next=
 }}
 ==Location==
-Meet[[Brimm]] at the food stalls. 
+Meet [[Brimm]] at the food stalls. 
 ==Description==
 Hello player <br/>
-As Part of your introductory training, I am going to have you practice cooking. Cooking is very important to the prowess of and Agent like yourself. By learning ercipes, we can craft ourselves food that will increase our strength, stamina, health as well as help us heal more quickly during and after battles.<br/>
+As Part of your introductory training, I am going to have you practice cooking. Cooking is very important to the prowess of and Agent like yourself. By learning recipes, we can craft ourselves food that will increase our strength, stamina, health as well as help us heal more quickly during and after battles.<br/>
 You already know the recipe to bake a cookie, so why don't we start there? Bake 3 cookies, then talk to me again.
 ==Rewards==
 Upon completion of this quest you will gain:
@@ -25,6 +25,7 @@ Bake 3 Cookies, put them into your backpack
 ==Completion==
 Return to Brimm after you completed your mission for the reward.
 ==Notes==
+[[Brimm]] standing on the left side past the tori gate where Mika Yakiri stationed at in [[The City of Zenith]].
 
 [[Category:Quests]]
 
