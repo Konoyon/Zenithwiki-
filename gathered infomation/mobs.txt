@@ -45,9 +45,30 @@ dmg:
 380 - 251>129
 drops:
 vorpal strike
+broken exiled mask
 ============================================================================
 Exil Gunner 
 dmg:
 830 - 698>132
 drops:
 Broken sylphid horn
+broken exiled mask
+=================================================================================
+Nightshade
+TOK:aoe essense arrow,tripel arrow attack,condensed essence arrow 
+drop rivu headband
+=================================================================================
+Amarite Ranger/Rivu Ranger
+Types of attacks: Jab,slashes, 2 shot Curroputed essense arrow,
+Drops exiled broken mask, rivu headband  hardened blade
+dmg
+Jab: 1710- 1594
+1710 - 1566
+1710 - 1594
+==================================================================================
+ent
+types of attacks: aoe spikes, claw slash seimec shock
+Drops :hardened Boots, hardened Blade, Rivu headband
+===================================================================================
+essense wolf
+TOK: charge, bite
