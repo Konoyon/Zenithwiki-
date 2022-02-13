@@ -1,0 +1,33 @@
+<infobox>
+  <title source={{{name|{{PAGENAME}}}}}
+  <image source="image"/>
+  <data source="Title"><label>Title</label></data>
+  <data source="Race"><label>Race</label></data>
+  <data source="Gender"><label>Gender</label></data>
+  <data source="Affiliation(s)"><label>Affiliation(s)</label></data>
+  <data source="Occupation(s)"><label>Occupation(s)</label></data>
+  <data source="foccupation"><label>Former Occupation(s)</label></data>
+  <data source="Location"><label>Location</label></data>
+  <data source="Status"><label>Status</label></data>
+  <data source="Relative(s)"><label>Relative(s)</label></data>
+  <data source="Mentor(s)"><label>Mentor(s)</label></data>
+  <data source="Student(s)"><label>Student(s)</label></data>
+  <data source="Companion(s)"><label>Companion(s)</label></data>
+</infobox>
+
+<infobox>
+ <title source="name"><default>{{PAGENAME}}</default></title>
+ <image source="image"/>
+ <data source="Title"><label>Title</label></data>
+ <data source="Race"><label>Race</label></data>
+ <data source="Gender"><label>Gender</label></data>
+ <data source="Affiliation(s)"><label>Affiliation(s)</label></data>
+ <data source="Occupation(s)"><label>Occupation(s)</label></data>
+ <data source="Former Occupation(s)"><label>Former Occupation(s)</label></data>
+ <data source="Location"><label>Location</label></data>
+ <data source="Status"><label>Status</label></data>
+ <data source="Relative(s)"><label>Relative(s)</label></data>
+ <data source="Mentor(s)"><label>Mentor(s)</label></data>
+ <data source="Student(s)"><label>Student(s)</label></data>
+ <data source="Companion(s)"><label>Companion(s)</label></data>
+</infobox>
