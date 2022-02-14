@@ -1,0 +1,26 @@
+Residing in the [[Amarite]] alongside the Amarites, the Ents are a race of tree-like beings that protect the forest. They use their strong tree-truck like arms and some essence abilities to fight intruders.
+{{EnemyBox
+| name=
+| image=
+| level=
+| race =
+| creature=
+| attk dmg=
+| occupation=
+| foccupation=
+| location=
+| status=
+| relatives=
+| mentors=
+| students=
+| companions=
+}}
+==Attacks==
+AOE Spike Trap
+Claw Slash
+Scimeic Shock
+
+==Drops==
+Hardened Boots
+Hardened blade
+Rivu headband

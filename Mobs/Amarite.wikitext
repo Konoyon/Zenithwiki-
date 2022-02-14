@@ -1,0 +1,62 @@
+The amarite are a group of forest dwellers that have a short temper and don't take kindly to outsiders especially from zenith. The amarite attack in both groups with other creatures and solo majority of time they use their bows for ranged combat but they also specicalize in blade and magic combat.
+==Mob Variations==
+{| class="mw-collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Rivu ranger</h2>
+|-
+||This is first varation of the amarite.<br /> 
+Attacks
+*Jab
+*Slash
+*Duel single shot
+*AOE spike trap
+{{Npcbox
+|doc=
+| name = Rivu ranger
+| image = Rivu Ranger.png
+| titles = Forest Folk
+| level = 10 - 20
+| type = Common
+| race = Amarite
+| creature =  Humanoid
+| affiliation = N/A
+| gender = N/A
+| occupation = monster/enemy
+| foccupation = 
+| location = [[Amarite forest]]
+| status = Alive
+| relatives = Nightshade
+| mentors = N/A
+| students = N/A
+| companions = N/A
+}} 
+
+{| class="mw-collapsible mw-collapsed" width="100%"
+|-
+! align="left" |<h2>Nightshade</h2>
+|-
+||This is second varation of the amarite.<br /> 
+Attacks
+*AOE Curropted essense arrow
+*Multi arrow shot
+*condensed arrow shot
+{{Npcbox
+|doc=
+| name = Nightshade
+| image = Nightshade.png
+| titles = Forest Folk
+| level = 10 - 20 
+| type = Common
+| race = Amarite
+| creature =  Humanoid
+| affiliation = N/A
+| gender = N/A
+| occupation = monster/enemy
+| foccupation = 
+| location = [[Amarite forest]]
+| status = Alive
+| relatives = Nightshade
+| mentors = N/A
+| students = N/A
+| companions = N/A
+}} 

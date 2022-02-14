@@ -1,0 +1,20 @@
+Residing in the [[Amarite forest]] alongside the Amarites, the essence wolves are a race of runed wolf that protect the forest. They use their gaw to fight intruders.
+{{EnemyBox
+| name=
+| image=
+| level=
+| race =
+| creature=
+| attk dmg=
+| occupation=
+| foccupation=
+| location=
+| status=
+| relatives=
+| mentors=
+| students=
+| companions=
+==Attacks==
+Charge
+bite
+==Drops==
