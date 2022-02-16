@@ -1,0 +1,29 @@
+<onlyinclude><includeonly>{{Infobox
+|bodystyle=width:21.5em
+|above  = {{{name|{{PAGENAME}}}}}
+|image  = {{#if:{{{slides|}}}|{{SlidesToTabber|{{{slides}}}|{{#if:{{{imgsize|}}}|{{{imgsize}}}|200x300px}}}}|{{#ifeq:{{lc:{{{image}}}}}|no||{{#ifexist:File:{{{image|}}}|[[File:{{{image}}}|frameless|200x300px|Image of {{{name|{{PAGENAME}}}}}]]|}}}}}}
+|caption = {{{caption|}}}
+|label1 = Level
+|data1  = {{{level|}}}
+|label2 = Race
+|data2  = {{{race|}}}
+|label3 = Attack Dmg
+|data3  = {{{Attack Dmg|}}} {{{type|}}}
+|label4 = Occupation(s)
+|data4  = {{{occupation|}}}
+|label13= Former Occupation(s)
+|data13 = {{{foccupation|}}}
+|label14= location
+|data14 = {{{location|}}}
+|label15= status
+|data15 = {{{status|}}}
+|label16= relatives
+|data16 = {{{relatives|}}}
+|label17= mentors
+|data17 = {{{mentors|}}}
+|label18= students
+|data18 = {{{students|}}}
+|label19= companions
+|data19 = {{{companions|}}}
+-->}}<!-- end of infobox
+--></includeonly></onlyinclude>

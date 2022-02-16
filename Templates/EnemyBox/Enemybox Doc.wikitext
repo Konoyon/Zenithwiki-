@@ -1,0 +1,61 @@
+Use the '''NPC box''' to help summarize the vital stats of a particular [[mob]] or [[NPC]].
+{{clr}}
+== Usage ==
+{{EnemyBox
+| name=
+| image=
+| level=
+| race =
+| creature =
+| Attack Dmg =
+| occupation=
+| foccupation=
+| location=
+| status=
+| relatives=
+| mentors=
+| students=
+| companions=
+}}
+
+<pre>{{EnemyBox
+| name=
+| image=
+| level=
+| race =
+
+| Attack Dmg =
+| occupation=
+| foccupation=
+| location=
+| status=
+| relatives=
+| mentors=
+| students=
+| companions=
+}}</pre>
+; name : The name of the NPC. Defaults to <nowiki>{{PAGENAME}}</nowiki>.
+; image : The filename of an image to include (Image will be scaled down to 200px width or 300px height, whichever is greater).
+; title : The title of the NPC that appears in brackets below the name, e.g. &lt;Destroyer of Worlds&gt;
+; gender : The sex of the NPC. Specify "Male" or "Female". Default not shown. 
+; race : The race of the NPC. Braces automatically included (braces not necessary).
+; creature : In game classification. (e.g. Humanoid, Beast, etc).
+; level : The level of the NPC.
+; type : Specify "Elite" if the NPC is [[Elite]], or "Boss" if the NPC is a [[Boss]] (city or instance). Defaults to Normal which is not shown.
+; affiliation: The affiliations of the character, if they have more than one.
+; faffiliation: The affiliations this character used to be part of.
+; location : The specific subzone or coordinates of the NPC. Braces necessary
+; occupation: the character's role and/or position
+; foccupation: the character's former role and/or position
+; status: The current status of a character; use only the following options: "'''Alive'''" (<span title="If character is undead, still present in some form even after death, or a non-sentient construct">"'''Active'''"</span> or <span title="Immortal character that is no longer active">"'''Inactive'''"</span>), "'''Deceased'''" (<span title="For bosses and minor mobs that can be killed">"'''Killable'''"</span> or <span title="If the character does not die during the fight">"'''Defeatable'''"</span>), <span title="If it is unclear what happened to them">"'''Unknown'''"</span> 
+; relatives: spouses, siblings, parents, children, any other family members. Please put the relationship in parenthesis.
+;mentors: If the character wields magic, then that person's teacher can be listed here.
+;students: If the character had an apprentice, or students then those characters can be listed here.
+;companions: Friends or group members.
+
+<div style="clear:both; margin: 0; padding: 0"></div><includeonly>
+[[Category:Infobox templates]]
+[[Category:Templates modifying defaultlinks]]
+</includeonly><noinclude>
+[[Category:Template documentation]]
+</noinclude>
